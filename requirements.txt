@@ -1,0 +1,9 @@
+# Data pipeline (fetch, transform, analysis) uses the Python standard
+# library only. The packages below are needed for the notebooks and charts.
+#
+# Python 3.9 or newer.
+
+nbformat>=5.9       # build_notebooks.py generates .ipynb from Python
+jupyter>=1.0        # executing the notebooks
+matplotlib>=3.7     # charts in notebook 03
+numpy>=1.24         # chart layout in notebook 03

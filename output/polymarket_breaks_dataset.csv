@@ -1,0 +1,553 @@
+event_id,event_title,market_question,category,category_source,resolution,neg_risk,snap_7d_pre,snap_24h_pre,snap_final,break_confidence,market_volume_usd,wrong_side_exposure_usd,end_date,bracket_pattern,in_iran_cluster
+903288,Pakistan Election: Who will be next Prime Minister?,Will Nawaz Sharif be next prime minister of Pakistan?,Politics,inferred,NO,True,0.9350,0.9685,0.9705,0.9705,134062.45,130107.61,2024-02-08,other,false
+10085,More border encounters in March vs. Feb?,More border encounters in March vs. Feb?,Other,inferred,NO,False,0.9150,0.4750,0.9700,0.9700,17203.80,16687.69,2024-03-31,other,false
+903336,US government shutdown by Mar 9?,US government shutdown by Mar 9?,Other,inferred,YES,False,0.0700,0.0355,0.0600,0.9645,388204.08,374422.83,2024-03-09,other,false
+903599,Trump's best state on Super Tuesday?,Will Alaska have highest margin of victory for Trump in Super Tuesday Republican Primaries?,Politics,inferred,YES,True,,0.0425,0.0480,0.9575,46947.67,44952.40,2024-03-05,other,false
+10031,NFL Draft: Top 5 Picks Scenarios,"Will 3 QBs, 1 WR and 1 OT be taken with the first 5 picks of the 2024 NFL Draft?",Sports,inferred,YES,True,0.5000,0.0255,0.0250,0.9750,4161.89,4057.84,2024-04-25,other,false
+10210,US bank failure in April?,US bank failure in April?,Other,inferred,YES,False,0.0135,0.9050,0.9050,0.9865,56886.52,56118.55,2024-04-30,other,false
+10349,Israel military action against Iran by Friday?,Israel military action against Iran by Friday?,Geopolitics,inferred,YES,False,,0.0750,0.0250,0.9750,391886.62,382089.46,2024-04-19,other,true
+10553,Kentucky Derby Winner,Will Mystik Dan win the 2024 Kentucky Derby?,Other,inferred,YES,True,,,0.0300,0.9700,1100.00,1067.00,2024-05-04,other,false
+903739,Will RFK Jr. announce Libertarian Party bid?,Will RFK Jr. announce Libertarian Party bid?,Other,inferred,YES,False,0.0145,0.0285,0.0335,0.9855,41661.38,41057.29,2024-05-26,other,false
+10407,Indian Election: How many seats will the NDA win?,Will the NDA win less than 300 seats?,Politics,inferred,YES,True,0.1450,0.0285,0.0595,0.9715,134649.62,130812.11,2024-06-04,other,false
+10598,Belgian Election: Which party wins the most seats?,Will the N-VA win the most seats in the Belgian federal elections?,Politics,inferred,YES,True,0.0305,0.0375,0.0375,0.9695,38209.94,37044.54,2024-06-09,other,false
+10598,Belgian Election: Which party wins the most seats?,Will VB win the most seats in the Belgian federal elections?,Politics,inferred,NO,True,0.8850,0.9650,0.9625,0.9650,70561.55,68091.89,2024-06-09,other,false
+10866,$GME market cap on Friday,$GME market cap between $8-10 billion on Friday?,Other,inferred,YES,True,,0.4750,0.0400,0.9600,8744.24,8394.47,2024-06-07,other,false
+11101,Euro 2024: Group D Winner,Will Austria win Group D?,Other,inferred,YES,True,0.0450,0.0515,0.0565,0.9550,34302.88,32759.25,2024-06-26,other,false
+10741,UK Election: Labour % of the vote?,Labour wins 30-35% of votes?,Politics,inferred,YES,True,0.0775,0.0700,0.0450,0.9550,31262.22,29855.42,2024-07-04,other,false
+11241,How many seats will National Rally coalition win in French Election?,Will National Rally win less than 175 seats?,Politics,inferred,YES,True,0.0230,0.0350,0.0600,0.9770,43003.84,42014.76,2024-07-07,other,false
+11416,British Grand Prix Winner,Will Lewis Hamilton win the British Grand Prix?,Other,inferred,YES,True,,0.0350,0.1730,0.9650,3776.99,3644.80,2024-07-07,other,false
+11520,WSOP Main Event Winner,Will Jonathan Tamayo win the WSOP main event?,Other,inferred,YES,True,,0.0450,0.4945,0.9550,6439.00,6149.25,2024-07-17,other,false
+11578,When will Biden drop out? ,Will Biden drop out on July 21?,Politics,inferred,YES,True,0.1450,0.0355,0.0355,0.9645,533552.09,514610.99,2024-07-26,other,false
+11585,100m Breaststroke Winner (M),Will Nicolo Martinenghi (ITA) win Gold in Men's 100m Breaststroke?,Other,inferred,YES,True,,0.0250,0.0260,0.9750,141.01,137.49,2024-07-29,other,false
+11718,"Will JD Vance say ""Couch"" before August?","Will JD Vance say ""Couch"" before August?",Other,inferred,YES,False,,0.0325,0.0130,0.9870,19125.16,18876.53,2024-07-31,other,false
+11566,1500m Winner (M),Will Cole Hocker (USA) win Gold in 1500m?,Other,inferred,YES,True,0.0450,0.0325,0.0250,0.9750,23114.83,22536.96,2024-08-06,other,false
+11581,200m Winner (M),Will Letsile Tebogo (BOT) win Gold in 200m?,Other,inferred,YES,True,0.0500,0.0550,0.1400,0.9500,61682.14,58598.04,2024-08-08,other,false
+12046,Ukraine hits Moscow by August 31?,Ukraine hits Moscow by August 31?,Geopolitics,inferred,YES,False,0.0950,0.0200,0.0130,0.9870,214357.74,211571.08,2024-08-31,other,false
+10187,Steelers' Week 1 starter?,Justin Fields Week 1 starter for Steelers?,Other,inferred,YES,True,0.0100,0.6305,0.9335,0.9900,39270.38,38877.68,2024-09-08,other,false
+10187,Steelers' Week 1 starter?,Russell Wilson Week 1 starter for Steelers?,Other,inferred,NO,True,0.9920,0.3660,0.0600,0.9920,20905.58,20738.34,2024-09-08,other,false
+12546,Caroline Ellison prison time?,Caroline Ellison sentenced to 24-35 months in prison?,Other,inferred,YES,True,0.0750,0.0650,0.0385,0.9615,148393.90,142680.73,2024-09-24,other,false
+12361, Ballon d'Or Winner,Will Rodri win the Ballon d’Or?,Other,inferred,YES,True,0.0830,0.0410,0.0955,0.9590,807072.34,773982.37,2024-10-28,other,false
+12425,How many jobs added in September?,US adds ore than 250k jobs in September?,Other,inferred,YES,True,0.0400,0.0390,0.0410,0.9610,64836.77,62308.13,2024-10-04,other,false
+12918,Elon Musk # of tweets Sept 27- Oct 4?,Will Elon tweet 300 or more times?,Tech,inferred,YES,True,,0.1155,0.0180,0.9820,70709.01,69436.25,2024-10-04,musk_tweet_bracket,false
+13201,Donald Trump # of tweets Oct 4-11?,Will Trump tweet 30-34 times October 4-11?,Politics,inferred,YES,True,,0.0400,0.2930,0.9600,34832.58,33439.28,2024-10-11,other,false
+13300,CS2: Elisa Masters Espoo 2024 Winner,Will ENCE win the Elisa Masters Espoo 2024?,Other,inferred,YES,True,0.0400,0.0900,0.2000,0.9600,111004.25,106564.08,2024-10-20,other,false
+13470,Trump vs. Harris polling margin Friday?    ,Will Kamala lead in RCP by 0-0.4 on Oct 25?,Politics,inferred,YES,True,0.0360,0.3230,0.5950,0.9640,148935.87,143574.18,2024-10-25,other,false
+11792,Will Kamala Harris go on SNL?,Will Kamala Harris go on SNL?,Politics,inferred,YES,False,0.0770,0.0300,0.0185,0.9815,723146.93,709768.72,2024-11-02,other,false
+12623,Pennsylvania Margin of Victory,Will the Republican candidate win Pennsylvania by 1.5%-2.0%? ,Politics,inferred,YES,True,0.0515,0.0415,0.0480,0.9585,693169.14,664402.62,2024-11-05,other,false
+13952,The House Poker Night: Biggest Winner ,Will another player be the biggest winner of The House Poker Night?,Other,inferred,YES,True,,0.0750,0.0395,0.9605,42825.92,41134.30,2024-11-03,other,false
+14008,Donald Trump # of tweets Nov 1-8?,Will Trump tweet 80-89 times Nov 1-8?,Politics,inferred,YES,True,,0.0020,0.5570,0.9980,39780.06,39700.50,2024-11-08,other,false
+14091,Las Vegas Grand Prix Winner,Will George Russell win the 2024 Las Vegas Grand Prix?,Other,inferred,YES,True,0.0305,0.0945,0.2230,0.9695,150392.18,145805.22,2024-11-24,other,false
+14190,Hawk Tuah token by Thanksgiving?,Hawk Tuah token by Thanksgiving?,Other,inferred,YES,False,0.1350,0.0345,0.0345,0.9655,188522.32,182018.30,2024-11-28,other,false
+14649,Elon Musk # of tweets Nov 22-29?,Will Elon tweet 475-499 times Nov 22-29?,Tech,inferred,YES,True,,0.0360,0.4990,0.9640,127294.51,122711.90,2024-11-29,musk_tweet_bracket,false
+15337,'Sonic 3' Opening Weekend Box Office,Will 'Sonic 3' gross between $56-64m on 3-day opening weekend?,Entertainment,inferred,YES,True,0.0255,0.2795,0.9825,0.9745,646850.75,630356.06,2024-12-23,other,false
+15401,FIDE World Blitz Chess Champion,Will another person win the 2024 World Blitz Championship?,Other,inferred,YES,True,,0.0800,0.0355,0.9645,3719834.65,3587780.52,2024-12-31,other,false
+15691,Steam Awards: Labor of Love,Will 'Elden Ring' win Labor of Love in the 2024 Steam Awards?,Other,inferred,YES,True,0.1150,0.0415,0.0230,0.9770,204232.94,199535.59,2024-12-31,other,false
+15692,Steam Awards: Most Innovative Gameplay,Will 'Balatro' win Most Innovative Gameplay in the 2024 Steam Awards?,Other,inferred,NO,True,0.9150,0.9550,0.9550,0.9550,104859.21,100140.54,2024-12-31,other,false
+15692,Steam Awards: Most Innovative Gameplay,Will 'Liar's Bar' win Most Innovative Gameplay in the 2024 Steam Awards?,Other,inferred,YES,True,0.0160,0.0055,0.0075,0.9945,82962.44,82506.15,2024-12-31,other,false
+11997,Fantasy Football: Top RB 2024,Will Jahmyr Gibbs be the top Fantasy Running Back?,Other,inferred,YES,True,0.0115,0.0035,0.0035,0.9965,99734.11,99385.04,2025-01-07,other,false
+11997,Fantasy Football: Top RB 2024,Will Saquon Barkley be the top Fantasy Running Back?,Other,inferred,NO,True,0.9650,0.9920,0.9920,0.9920,129351.15,128316.34,2025-01-07,other,false
+15049,NFL Worst Record,Will the Tennessee Titans finish with the worst record in the NFL?,Sports,inferred,YES,True,0.0275,0.1820,0.1750,0.9725,31367.87,30505.26,2025-01-05,other,false
+15936,Elon Musk # of tweets December 27-January 3?,Will Elon tweet 400-424 times Dec 27-Jan 3?,Tech,inferred,YES,True,,0.0060,0.0790,0.9940,680399.67,676317.28,2025-01-03,musk_tweet_bracket,false
+16504,How many Executive Orders will Trump issue on Day 1?,Will Trump issue 25-29 executive orders on Day 1?,Politics,inferred,YES,True,0.0700,0.0500,0.0220,0.9780,707489.06,691924.30,2025-01-20,other,false
+16535,Will all LA wildfires be fully contained before February?,Will all LA wildfires be fully contained before February?,Other,inferred,YES,False,0.3000,0.1400,0.0345,0.9655,234988.83,226881.71,2025-01-31,other,false
+16549,Australian Open Winner (W),Will Madison Keys win the Australian Open?,Other,inferred,YES,True,0.0420,0.2350,0.2380,0.9580,53868.61,51606.13,2025-01-25,other,false
+17397,Highest temperature in NYC on Jan 29?,Will the highest temperature in NYC be 52°F or higher on January 29?,Other,inferred,YES,True,,0.3500,0.0245,0.9755,7965.77,7770.60,2025-01-29,other,false
+17458,Highest temperature in NYC on Jan 31?,Will the highest temperature in NYC be between 48-49°F on January 31?,Other,inferred,YES,True,,0.1000,0.0305,0.9695,38209.06,37043.69,2025-01-31,other,false
+15442,Where will Jimmy Butler get traded?,Will Jimmy Butler get traded to the Golden State Warriors?,Other,inferred,YES,True,0.0610,0.0315,0.4765,0.9685,41392.98,40089.11,2025-02-06,other,false
+16750,Freestyle Chess Grand Slam Weisenhaus Winner,Will Vincent Keymer win the 2025 Freestyle Chess Grand Slam Weissenhaus?,Sports,inferred,YES,True,0.0250,0.3775,0.7135,0.9750,80372.84,78363.52,2025-02-14,other,false
+16842,Fastest Lap at F1 Winter Testing?,Will Williams record the fastest lap at 2025 F1 Winter Testing?,Sports,inferred,YES,True,0.0355,0.0400,0.2500,0.9645,39047.76,37661.57,2025-02-28,other,false
+16986,Grammys: Best Country Song,"Will ""The Architect"" by Kacey Musgraves win Best Country Song?",Entertainment,inferred,YES,True,0.0400,0.0275,0.0285,0.9725,156126.73,151833.25,2025-02-02,other,false
+17399,Margin of Victory,Will the Eagles win Super Bowl LIX by 16-18 points?,Sports,inferred,YES,True,0.0285,0.0295,0.0345,0.9715,3990.96,3877.22,2025-02-09,other,false
+17401,How many times will Taylor Swift be shown on broadcast?,Taylor Swift shown on the Super Bowl LIX broadcast 1 time?,Sports,inferred,YES,True,0.0115,0.0125,0.0095,0.9905,29286.17,29007.95,2025-02-09,other,false
+17513,Highest temperature in NYC on February 1?,Will the highest temperature in NYC be 46°F or higher on February 1?,Other,inferred,YES,True,,0.0305,0.1995,0.9695,34617.04,33561.22,2025-02-01,other,false
+17554,Highest temperature in NYC on February 2?,Will the highest temperature in NYC be 32°F or below on February 2?,Other,inferred,YES,True,,0.0265,0.0060,0.9940,16687.21,16587.08,2025-02-02,other,false
+17563,What price will Bitcoin hit in February?,"Will Bitcoin dip to $85,000 by February 28, 2025?",Crypto,inferred,YES,False,0.0340,0.2670,0.2670,0.9660,4737626.79,4576547.48,2025-02-28,crypto_price_bracket,false
+17571,Trump (@POTUS) # of tweets Jan 31 - Feb 7?,Will POTUS tweet 17-19 times Jan 31 - Feb 7?,Politics,inferred,YES,True,,0.0345,0.4760,0.9655,7199.76,6951.36,2025-02-07,other,false
+17881,Will DOGE bring back Marko Elez in February? ,Will DOGE bring back Marko Elez in February? ,Crypto,inferred,YES,False,0.0215,0.3305,0.3305,0.9785,29757.37,29117.58,2025-02-28,other,false
+18403,SAG Award: Best Cast in a Comedy Series,"Will ""Only Murders in the Building"" win Best Cast in a Comedy Series at the 2025 SAG Awards?",Other,inferred,YES,True,0.0060,0.0115,0.0030,0.9970,74333.36,74110.36,2025-02-23,other,false
+18429,Elon Musk # of tweets Feb 7-14? (Higher Options) ,Will Elon tweet 850-874 times Feb 7-14?,Tech,inferred,YES,True,,0.1750,0.0270,0.9730,529919.35,515611.53,2025-02-14,musk_tweet_bracket,false
+18480,Highest temperature in London on February 15?,Will the highest temperature in London be between 43-44°F on February 15?,Other,inferred,YES,True,,0.1800,0.0170,0.9830,18942.34,18620.32,2025-02-15,other,false
+18962,Highest temperature in London on February 19?,Will the highest temperature in London be between 45-46°F on February 19?,Other,inferred,YES,True,,0.3500,0.0475,0.9525,43644.56,41571.44,2025-02-19,other,false
+19050,Highest temperature in London on February 22?,Will the highest temperature in London be between 57-58°F on February 22?,Other,inferred,YES,True,,0.0455,0.0800,0.9545,21323.44,20353.22,2025-02-22,other,false
+19130,Highest temperature in NYC on Feb 23?,Will the highest temperature in NYC be between 47-48°F on February 23?,Other,inferred,YES,True,,0.0175,0.0140,0.9860,7893.90,7783.38,2025-02-23,other,false
+19125,Which company has best AI model end of March?,Will Google have the top AI model on March 31?,Other,inferred,YES,True,0.0395,0.9800,0.9870,0.9605,667876.91,641495.77,2025-03-31,other,false
+19592,How many Executive Orders will Trump sign in March?,Will Donald Trump sign 30 or more executive orders in March?,Politics,inferred,YES,True,0.0485,0.9965,0.9955,0.9515,31888.36,30341.77,2025-03-31,other,false
+19604,Will Sydney Sweeney break up with her fiancé before April?,Will Sydney Sweeney break up with her fiancé before April?,Other,inferred,YES,False,0.0060,0.4350,0.5110,0.9940,341029.83,338983.65,2025-03-31,other,false
+19635,Which agency will be most efficient end of March?,Will the Department of Health and Human Services be most efficient on March 31?,Other,inferred,YES,True,0.0055,0.8980,0.9285,0.9945,5608.67,5577.83,2025-03-31,other,false
+19693,Highest temperature in NYC on March 1?,Will the highest temperature in NYC be 63°F or higher on March 1?,Other,inferred,YES,True,,0.0285,0.0140,0.9860,10824.81,10673.27,2025-03-01,other,false
+20193,Who will applaud during Trump's address to Congress?,Will Bernie Sanders applaud during Trump's address to Congress?,Politics,inferred,YES,False,,,0.0250,0.9750,40592.72,39577.90,2025-03-04,other,false
+20381,Highest temperature in London on March 7?,Will the highest temperature in London be 63°F or higher on March 7?,Other,inferred,YES,True,,0.0130,0.2170,0.9870,17622.75,17393.66,2025-03-07,other,false
+20517,Highest temperature in London on March 10?,Will the highest temperature in London be between 54-55°F on March 10?,Other,inferred,YES,True,,0.0515,0.0155,0.9845,17264.05,16996.46,2025-03-10,other,false
+20739,Will Strategy purchase Bitcoin Feb Mar 11-17?,Will Strategy purchase Bitcoin Feb Mar 11-17?,Crypto,inferred,YES,False,,0.2750,0.0175,0.9825,362198.23,355859.76,2025-03-17,other,false
+20800,Original tribe of the Crypto: The Game S3 winner,Will Pink Tribe be the Crypto the Game Season 3 winner?,Crypto,inferred,YES,True,0.4950,0.0345,0.1745,0.9655,1494.73,1443.16,2025-03-19,other,false
+21244,China Grand Prix - Sprint Winner,Will Lewis Hamilton win the 2025 Chinese Grand Prix Sprint?,Other,inferred,YES,True,,0.0170,0.2545,0.9830,44255.65,43503.31,2025-03-22,other,false
+21346,Solana above $130 on March 28?,Solana above $130 on March 28?,Crypto,inferred,NO,False,,0.8050,0.9650,0.9650,1890359.02,1824196.45,2025-03-28,crypto_price_bracket,false
+21358,Highest temperature in NYC on March 25?,Will the highest temperature in NYC be 59°F or higher on March 25?,Other,inferred,YES,True,,0.0335,0.0490,0.9665,34671.20,33509.72,2025-03-25,other,false
+21762,Highest temperature in NYC on March 30?,Will the highest temperature in NYC be between 45-46°F on March 30?,Other,inferred,YES,True,,0.0300,0.0110,0.9890,34738.33,34356.20,2025-03-30,other,false
+16446,Browns First Pick?,Will the Browns draft Mason Graham?,Other,inferred,YES,True,0.0135,0.0050,0.0025,0.9975,2624.10,2617.54,2025-04-24,other,false
+16448,Jaguars First Pick?,Will the Jaguars draft Travis Hunter?,Other,inferred,YES,True,0.0165,0.0140,0.3950,0.9860,2955.62,2914.25,2025-04-24,other,false
+17437,Which countries will Trump tariff in first 100 days?,Will Trump impose tariffs on Brazil in the first 100 days?,Politics,inferred,YES,False,0.0280,0.0375,0.0210,0.9790,151291.91,148114.78,2025-04-29,other,false
+17698,Will Trump increase tariffs on Mexico before May?,Will Trump increase tariffs on Mexico before May?,Politics,inferred,YES,False,0.0580,0.0140,0.9775,0.9860,1186485.74,1169874.94,2025-04-30,other,false
+17699,Will Trump increase tariffs on Canada before May?,Will Trump increase tariffs on Canada before May?,Politics,inferred,YES,False,0.0440,0.0275,0.9495,0.9725,761450.34,740510.45,2025-04-30,other,false
+18490,Price of dozen eggs in March?,Will egg prices be more than $6.00 in March?,Other,inferred,YES,True,0.0850,0.0500,0.0505,0.9500,794582.91,754853.76,2025-04-10,other,false
+20752,Which team will draft Travis Hunter?,Will the Jaguars draft Travis Hunter in 2025?,Other,inferred,YES,True,0.0255,0.0020,0.4790,0.9980,12943.49,12917.60,2025-04-24,other,false
+20769,3rd QB taken in 2025 NFL Draft? ,Will Tyler Shough be the third QB taken in the 2025 NFL Draft?,Sports,inferred,YES,True,0.0150,0.0590,0.1200,0.9850,9152.07,9014.79,2025-04-25,other,false
+21598,Will Pierre Poilievre lose his seat?,Will Pierre Poilievre lose his seat?,Other,inferred,YES,False,0.0435,0.1090,0.0605,0.9565,918482.07,878528.10,2025-04-28,other,false
+21944,April 2025 Temperature Increase (ºC),Will global temperature increase by between 1.22-1.26ºC in April 2025?,Other,inferred,YES,True,0.0290,0.1935,0.1210,0.9710,158129.17,153543.42,2025-04-30,other,false
+21946,Trump x Ukraine mineral deal signed before May?,Trump x Ukraine mineral deal signed before May?,Politics,inferred,YES,False,0.3950,0.2150,0.0180,0.9820,6833523.78,6710520.35,2025-04-30,other,false
+22029,Elon Musk Net Worth on April 30?,Will Elon Musk's net worth be between $330b and $340b on April 30?,Tech,inferred,YES,True,0.0425,0.2355,0.7025,0.9575,44377.67,42491.62,2025-04-30,other,false
+22164,Highest temperature in NYC on April 4?,Will the highest temperature in NYC be 74°F or higher on April 4?,Other,inferred,YES,True,,0.2500,0.0500,0.9500,7325.21,6958.95,2025-04-04,other,false
+22422,Highest temperature in London on April 9?,Will the highest temperature in London be between 54-55°F on April 9?,Other,inferred,YES,True,,0.0450,0.0400,0.9600,14641.00,14055.36,2025-04-09,other,false
+22488,Highest temperature in London on April 10?,Will the highest temperature in London be between 58-59°F on April 10?,Other,inferred,YES,True,,0.0450,0.4100,0.9550,23907.83,22831.97,2025-04-10,other,false
+22640,Ecuador Presidential Election Margin of Victory,Will Daniel Noboa win by 8% or more?,Politics,inferred,YES,True,,0.0300,0.0125,0.9875,2022.95,1997.67,2025-04-13,other,false
+22666,Australia Election: # of Seats Margin of Victory?,Will the Labor Party win by 40 or more seats?,Politics,inferred,YES,True,0.0315,0.0665,0.0525,0.9685,87865.59,85097.82,2025-05-03,other,false
+22669,Will courts block Trump's tariffs before June?,Will courts block Trump's tariffs before June?,Politics,inferred,YES,False,0.0445,0.9990,0.9990,0.9555,153986.04,147133.66,2025-05-31,other,false
+23703, Elon Musk out as Senior Advisor to Trump in May?, Elon Musk out as Senior Advisor to Trump in May?,Politics,inferred,YES,False,0.0395,0.9940,0.9940,0.9605,123528.15,118648.78,2025-05-31,other,false
+23788,Ethereum price on May 9?,Will the price of Ethereum be greater than $2000 on May 9?,Crypto,inferred,YES,True,,0.0180,0.9710,0.9820,696277.93,683744.93,2025-05-09,other,false
+23822,Highest temperature in NYC on May 6?,Will the highest temperature in NYC be between 67-68°F on May 6?,Other,inferred,YES,True,,0.2450,0.0255,0.9745,24376.25,23754.66,2025-05-06,other,false
+23991,Which Team Wins the NBA Draft Lottery?,Will the Dallas Mavericks win the NBA Draft Lottery?,Sports,inferred,YES,True,,0.2500,0.0150,0.9850,1581.00,1557.29,2025-05-12,other,false
+24008, US military action on Yemen before June?, US military action on Yemen before June?,Other,inferred,YES,False,0.0370,0.8085,0.8085,0.9630,109658.81,105601.43,2025-05-31,other,true
+24072,NBA 2025 Finals Matchup,Will Pacers vs. Thunder be the 2025 NBA Finals matchup?,Sports,inferred,YES,True,,0.0400,0.0850,0.9600,330421.08,317204.23,2025-05-13,other,false
+24088,Will Han Duck-soo register for presidential run?,Will Han Duck-soo register for presidential run?,Politics,inferred,NO,False,,0.9855,0.0105,0.9855,310401.85,305901.02,2025-05-11,other,false
+24153,2025 IIHF World Championship,Will United States win the 2025 IIHF World Championship?,Other,inferred,YES,True,0.0385,0.1555,0.5315,0.9615,52612.74,50587.15,2025-05-25,other,false
+24158,Highest temperature in London on May 12?,Will the highest temperature in London be between 76-77°F on May 12?,Other,inferred,YES,True,,0.1150,0.0060,0.9940,27088.71,26926.18,2025-05-12,other,false
+24421,Highest temperature in London on May 15?,Will the highest temperature in London be 58°F or below on May 15?,Other,inferred,YES,True,,0.1000,0.0205,0.9795,21301.63,20864.94,2025-05-15,other,false
+24444,"""Lilo & Stitch"" Opening Weekend Box Office",Will 'Lilo & Stitch' gross between $140-150m opening weekend?,Entertainment,inferred,YES,True,0.1300,0.0500,0.1090,0.9500,217895.70,207000.92,2025-05-23,other,false
+25291,Highest temperature in London on May 29?,Will the highest temperature in London be 77°F or higher on May 29?,Other,inferred,YES,True,,0.0450,0.0060,0.9940,29165.05,28990.06,2025-05-29,other,false
+21300,Trump's birthright citizenship ban unblocked before July?,Trump's birthright citizenship ban unblocked before July?,Politics,inferred,YES,False,0.0295,0.9955,0.9955,0.9705,131252.22,127380.28,2025-06-30,other,false
+21369,Barron Trump public statement before July?,Barron Trump public statement before July?,Politics,inferred,YES,False,0.0395,0.0395,0.0395,0.9605,211397.54,203047.33,2025-06-30,other,false
+25222,Giro d'Italia 2025 Winner ,Will Simon Yates win the Giro d’Italia 2025?,Other,inferred,YES,True,,0.0160,0.9885,0.9840,4209.75,4142.40,2025-06-01,other,false
+25537,"Bitcoin above $105,000 on June 6?","Bitcoin above $105,000 on June 6?",Crypto,inferred,YES,False,,0.4500,0.0345,0.9655,3567234.53,3444164.94,2025-06-06,crypto_price_bracket,false
+25588,10-year Treasury yield >4.5% Friday?,10-year Treasury yield >4.5% Friday?,Macro,inferred,YES,False,,0.3550,0.0330,0.9670,98589.69,95336.23,2025-06-06,other,false
+25677,F1 Canadian Grand Prix Winner ,Will George Russell win the 2025 Canadian Grand Prix?,Sports,inferred,YES,True,0.0500,0.0400,0.0695,0.9600,104372.34,100197.44,2025-06-15,other,false
+25684,F1 Canadian Grand Prix: Pole Winner ,Will George Russell win the 2025 Canadian GP pole?,Sports,inferred,YES,True,0.0550,0.0410,0.1320,0.9590,34658.38,33237.38,2025-06-15,other,false
+25936,Elon Musk # of tweets May 30 - June 6? (Higher Brackets),Will Elon tweet 320–334 times May 30–June 6?,Tech,inferred,YES,True,,0.0185,0.0810,0.9815,421195.87,413403.75,2025-06-06,musk_tweet_bracket,false
+26232,Trump approval rating on June 13?,Will Trump's approval rating be between 45.0% and 45.4% on June 13?,Politics,inferred,YES,True,,0.0400,0.2050,0.9600,35743.31,34313.58,2025-06-13,other,false
+26309,Queen Anne Stakes Winner ,Will Docklands win the 2025 Queen Anne Stakes?,Other,inferred,YES,True,0.0500,0.0550,0.2500,0.9500,3086.71,2932.38,2025-06-18,other,false
+26878,NYC Mayoral Dem Primary MOV,Will Zohran Mamdani’s RCV margin of victory be greater than 9% in the New York City Mayoral Democratic Primary?,Politics,inferred,YES,True,0.1220,0.0160,0.1245,0.9840,269703.88,265388.62,2025-06-24,other,false
+26939,Highest temperature in NYC on June 17?,Will the highest temperature in New York City be 67°F or below on June 17?,Other,inferred,YES,True,,0.2515,0.0390,0.9610,7948.55,7638.56,2025-06-17,other,false
+27131,Trump approval rating on June 20?,Will Trump's approval rating be between 46.0% and 46.4% on June 20?,Politics,inferred,YES,True,,0.0130,0.1090,0.9870,32163.05,31744.93,2025-06-20,other,false
+27135,Will Trump sign an executive order on...? (June 14-20),Will Donald Trump sign an executive order on June 16?,Politics,inferred,YES,False,,0.0140,0.0140,0.9860,16482.23,16251.48,2025-06-20,other,false
+27205,PGA TOUR: Travelers Championship Winner ,Will Keegan Bradley win the 2025 Travelers Championship?,Sports,inferred,YES,True,,0.0270,0.1715,0.9730,177479.29,172687.35,2025-06-23,other,false
+27239,Highest temperature in NYC on June 18?,Will the highest temperature in New York City be between 85-86°F on June 18?,Other,inferred,YES,True,,0.2200,0.0085,0.9915,10929.18,10836.28,2025-06-18,other,false
+27513,NASCAR The Great American Getaway 400 Winner ,Will Chase Briscoe win The Great American Getaway 400?,Other,inferred,YES,True,,0.0310,0.0320,0.9690,11717.15,11353.92,2025-06-22,other,false
+27595,Solana Up or Down on June 20?,Solana Up or Down on June 20?,Crypto,inferred,NO,False,,0.5000,0.9665,0.9665,176184.88,170282.69,2025-06-20,other,false
+27833,LIV Golf Dallas Winner ,Will Patrick Reed win the 2025 LIV Golf Dallas tournament?,Sports,inferred,YES,True,,0.0360,0.2140,0.9640,5754.19,5547.04,2025-06-29,other,false
+27846,US military action against Iran by Saturday?,US military action against Iran by Saturday?,Geopolitics,inferred,YES,False,,0.0950,0.0430,0.9570,4480426.71,4287768.37,2025-06-21,other,true
+27885,Highest temperature in NYC on June 22?,Will the highest temperature in New York City be 89°F or below on June 22?,Other,inferred,YES,True,,0.0110,0.0150,0.9890,8940.93,8842.58,2025-06-22,other,false
+28241,FIFA Club World Cup: Auckland City vs. Boca Juniors ,Will Boca Juniors beat Auckland City?,Sports,inferred,NO,True,,,0.9645,0.9645,301751.29,291039.12,2025-06-24,other,false
+22038,Elon Musk tweets 25+ times Thursday?,Elon Musk tweets 25+ times Thursday?,Tech,inferred,YES,False,,0.6350,0.0350,0.9650,42004.48,40534.32,2025-07-25,musk_tweet_bracket,false
+25999,FIFA Club World Cup: Golden Ball Winner ,Will Cole Palmer win the Golden Ball at the 2025 FIFA Club World Cup?,Sports,inferred,YES,True,0.0225,0.0640,0.0675,0.9775,6699.65,6548.90,2025-07-13,other,false
+26238,June Unemployment Rate,Will the June 2025 unemployment rate be 4.1%?,Macro,inferred,YES,True,0.0335,0.0335,0.0430,0.9665,39417.77,38097.27,2025-07-03,other,false
+26447,Freestyle Chess Lands in Las Vegas,Will Levon Aronian win the 2025 Freestyle Chess Lands in Las Vegas tournament?,Other,inferred,YES,True,0.0155,0.1745,0.4095,0.9845,89241.97,87858.71,2025-07-20,other,false
+28457,Will either Cuomo or Mamdani concede by..?,Will either Cuomo or Mamdani concede by Wednesday?,Other,inferred,YES,False,0.0355,0.0355,0.0355,0.9645,267238.77,257751.79,2025-07-05,other,false
+28651,Megaquake before August?,Megaquake before August?,Other,inferred,YES,False,0.0235,0.0065,0.9980,0.9935,1373180.54,1364254.86,2025-07-31,other,false
+29380,Ethereum price on July 4?,Will the price of Ethereum be greater than $2500 on July 4?,Crypto,inferred,NO,True,,0.8850,0.9805,0.9805,1086088.01,1064909.30,2025-07-04,other,false
+29380,Ethereum price on July 4?,Will the price of Ethereum be between $2400 and $2500 on July 4?,Crypto,inferred,YES,True,,0.0950,0.0165,0.9835,789010.94,775992.25,2025-07-04,other,false
+30375,LIV Golf Andalucia Winner ,Will Talor Gooch win the 2025 LIV Golf Andalucia tournament?,Sports,inferred,YES,True,0.0250,0.0480,0.0655,0.9750,23540.95,22952.43,2025-07-13,other,false
+30392,F1 British Grand Prix: 3rd Place ,Will Nico Hulkenberg finish in 3rd place at the 2025 F1 British Grand Prix?,Sports,inferred,YES,True,,0.0705,0.0410,0.9590,6531.16,6263.39,2025-07-06,other,false
+30826,NBA 2K26 Summer League winner ,Will the Charlotte Hornets win the 2025 NBA 2K26 Summer League?,Sports,inferred,YES,True,0.0370,0.2550,0.3250,0.9630,8150.00,7848.45,2025-07-21,other,false
+31223,PGA TOUR: Scottish Open: First Round Leader ,Will Sepp Straka be the first round leader at the 2025 Genesis Scottish Open?,Sports,inferred,YES,True,,0.0110,0.2510,0.9890,3197.46,3162.29,2025-07-11,other,false
+31753,FIFA Club World Cup: Chelsea vs. PSG – Exact Score ,Will Chelsea win 3-0?,Sports,inferred,YES,True,,0.0350,0.0125,0.9875,9336.19,9219.48,2025-07-13,other,false
+31934,Highest temperature in NYC on July 14?,Will the highest temperature in New York City be 88°F or higher on July 14?,Other,inferred,YES,True,,0.1500,0.0350,0.9650,16801.28,16213.24,2025-07-14,other,false
+32229,What will Trump say this week (July 12 - July 18)?,"Will Trump say ""BRICS"" this week?",Politics,inferred,YES,False,,0.2250,0.0300,0.9700,31306.80,30367.60,2025-07-19,other,false
+32275,Open Championship - First Round Leader ,Will Harris English be the first round leader at the 2025 Open Championship?,Politics,inferred,YES,True,,0.0110,0.2510,0.9890,2206.00,2181.73,2025-07-18,other,false
+32293,Open Championship – Top LIV Player ,Will Bryson DeChambeau have the best finish at the 2025 Open Championship?,Other,inferred,YES,True,,0.0400,0.2500,0.9600,1719.21,1650.44,2025-07-20,other,false
+32781,Will Trump meet with Jerome Powell by July 31?,Will Trump meet with Jerome Powell by July 31?,Politics,inferred,YES,False,0.0500,0.5500,0.5500,0.9500,35281.34,33517.27,2025-07-31,other,false
+32952,What will be said during Google Q2 2025 earnings call?,"Will anyone say ""DeepMind"" during the Q2 2025 Google earnings call?",Other,inferred,NO,False,,,0.9650,0.9650,7556.35,7291.88,2025-07-23,other,false
+32960,Highest temperature in London on July 21?,Will the highest temperature in London be 76°F or higher on July 21?,Other,inferred,YES,True,,0.1395,0.0165,0.9835,20769.85,20427.15,2025-07-21,other,false
+33233,Trump approval rating on July 25?,Will Trump’s approval rating be 44.5–44.9% on July 25?,Politics,inferred,YES,True,,0.0095,0.0060,0.9940,38714.75,38482.46,2025-07-25,other,false
+33293,UFC Fight Night – Parlay Card ,UFC Fight Night: Salikhov and Buday,Sports,inferred,YES,False,,0.0650,0.0450,0.9550,2997.99,2863.08,2025-07-27,other,false
+33319,PGA TOUR – 3M Open Winner ,Will Kurt Kitayama win the 2025 PGA TOUR 3M Open?,Sports,inferred,YES,True,,0.0135,0.1235,0.9865,34570.92,34104.21,2025-07-28,other,false
+34072,Highest temperature in NYC on July 27?,Will the highest temperature in New York City be 86°F or higher on July 27?,Other,inferred,YES,True,,0.1800,0.0350,0.9650,102538.30,98949.46,2025-07-27,other,false
+34048,Bolivia Chamber of Deputies Election Winner,Will PDC win the most seats in the next Bolivia Chamber of Deputies election?,Politics,inferred,YES,True,0.0035,0.0035,0.0105,0.9965,244448.62,243593.05,2025-08-17,other,false
+34049,Bolivia Senate Election Winner,Will PDC win the most seats in the next Bolivia Senate election?,Politics,inferred,YES,True,0.0030,0.0030,0.0015,0.9985,77652.88,77536.40,2025-08-17,other,false
+34430,F1 Hungarian Grand Prix – Pole Winner ,Will Charles Leclerc win the 2025 F1 Hungarian Grand Prix pole?,Sports,inferred,YES,True,,0.0700,0.0450,0.9550,374218.34,357378.52,2025-08-03,other,false
+34576,Nothing Ever Happens: August,Nothing Ever Happens: August,Other,inferred,NO,False,0.9660,0.9660,0.9660,0.9660,172203.58,166348.66,2025-08-31,other,false
+34758,"""The Bad Guys 2"" Opening Weekend Box Office","Will ""The Bad Guys 2"" Opening Weekend Box Office be between $19m and $22m?",Entertainment,inferred,YES,True,,0.1355,0.0355,0.9645,62924.53,60690.71,2025-08-04,other,false
+34758,"""The Bad Guys 2"" Opening Weekend Box Office","Will ""The Bad Guys 2"" Opening Weekend Box Office be between $22m and $25m?",Entertainment,inferred,NO,True,,0.8100,0.9640,0.9640,33086.91,31895.78,2025-08-04,other,false
+35137,Highest temperature in NYC on August 5?,Will the highest temperature in New York City be between 81-82°F on August 5?,Other,inferred,YES,True,,0.1050,0.0150,0.9850,10317.36,10162.59,2025-08-05,other,false
+35539,PGA TOUR FedEx St. Jude Championship – Winner ,Will Justin Rose win the 2025 FedEx St. Jude Championship?,Sports,inferred,YES,True,,0.0245,0.1505,0.9755,138916.40,135512.95,2025-08-11,other,false
+35540,PGA TOUR FedEx St. Jude – First Round Leader ,Will Akshay Bhatia be the first round leader at the 2025 FedEx St. Jude Championship?,Sports,inferred,YES,True,,0.0110,0.4645,0.9890,202.00,199.78,2025-08-08,other,false
+35685,What price will Bitcoin hit August 4-10?,Will Bitcoin reach $121K August 4–10?,Crypto,inferred,YES,False,,,0.0400,0.9600,73153.12,70227.00,2025-08-11,crypto_price_bracket,false
+35685,What price will Bitcoin hit August 4-10?,Will Bitcoin reach $122K August 4–10?,Crypto,inferred,YES,False,,0.0195,0.0110,0.9890,539006.08,533077.02,2025-08-11,crypto_price_bracket,false
+35685,What price will Bitcoin hit August 4-10?,Will Bitcoin reach $120K August 4–10?,Crypto,inferred,YES,False,,0.0115,0.2720,0.9885,625992.22,618793.31,2025-08-11,crypto_price_bracket,false
+35718,Chess – Sinquefield Cup Winner ,Will Wesley So win the Sinquefield Cup 2025 chess tournament?,Other,inferred,YES,True,0.0165,0.9995,0.9995,0.9835,17944.57,17648.49,2025-08-31,other,false
+36059,Solana above ___ on August 13?,Solana above $190 on August 13?,Crypto,inferred,YES,False,,0.0420,0.9940,0.9580,91366.50,87529.11,2025-08-13,crypto_price_bracket,false
+36098,Bolivia Presidential Election Margin of Victory: First Round,Will another person win the Bolivian election?,Politics,inferred,YES,True,,0.0600,0.0450,0.9550,39120.63,37360.20,2025-08-17,other,false
+36349,Highest temperature in NYC on August 10?,Will the highest temperature in New York City be between 89-90°F on August 10?,Other,inferred,YES,True,,0.0245,0.0535,0.9755,4719.37,4603.74,2025-08-10,other,false
+36714,Which pair advances to Bolivia runoff election?,Will another pairing advance to the Bolivian presidential runoff?,Politics,inferred,YES,True,,0.0480,0.0360,0.9640,312131.86,300895.11,2025-08-17,other,false
+37011,PGA TOUR BMW Championship - First Round Leader ,Will Robert MacIntyre be the first round leader at the 2025 BMW Championship?,Sports,inferred,YES,True,,0.0150,0.0150,0.9850,3204.85,3156.78,2025-08-15,other,false
+37130,Highest temperature in NYC on August 14?,Will the highest temperature in New York City be between 89-90°F on August 14?,Other,inferred,YES,True,,0.2800,0.0500,0.9500,4065.21,3861.95,2025-08-14,other,false
+37330,Ethereum all time high by August 22?,Ethereum all time high by August 22?,Crypto,inferred,YES,False,0.3150,0.0090,0.0035,0.9965,242858.96,242008.95,2025-08-23,other,false
+37337,Samoa Legislative Assembly Election Winner,Will FAST win the most seats in the 2025 Samoa Legislative Assembly election?,Politics,inferred,YES,True,0.4000,0.0500,0.0450,0.9550,29326.21,28006.53,2025-08-29,other,false
+37380,Highest temperature in London on August 16?,Will the highest temperature in London be between 69-70°F on August 16?,Other,inferred,YES,True,,0.0150,0.0110,0.9890,14015.57,13861.40,2025-08-16,other,false
+37947,Bitcoin above ___ on August 22?,Bitcoin above $116K on August 22?,Crypto,inferred,YES,False,,0.1000,0.0030,0.9970,925148.65,922373.20,2025-08-22,crypto_price_bracket,false
+37948,Ethereum above ___ on August 22?,Ethereum above $4500 on August 22?,Crypto,inferred,YES,False,,0.0800,0.0170,0.9830,496452.49,488012.80,2025-08-22,crypto_price_bracket,false
+37948,Ethereum above ___ on August 22?,Ethereum above $4600 on August 22?,Crypto,inferred,YES,False,,0.0295,0.0035,0.9965,370764.44,369466.76,2025-08-22,crypto_price_bracket,false
+37949,Solana above ___ on August 22?,Solana above $190 on August 22?,Crypto,inferred,YES,False,,0.2450,0.0185,0.9815,91556.27,89862.48,2025-08-22,crypto_price_bracket,false
+37950,XRP above ___ on August 22?,XRP above $3.00 on August 22?,Crypto,inferred,YES,False,,0.4850,0.0250,0.9750,15090.55,14713.29,2025-08-22,crypto_price_bracket,false
+37960,Bitcoin price on August 22?,Will the price of Bitcoin be between $116K and $118K on August 22?,Crypto,inferred,YES,True,,0.0850,0.0105,0.9895,206964.25,204791.12,2025-08-22,other,false
+37962,Solana price on August 22?,Will the price of Solana be between $190 and $200 on August 22?,Crypto,inferred,YES,True,,0.1850,0.0240,0.9760,58841.32,57429.13,2025-08-22,other,false
+37964,Ethereum price on August 22?,Will the price of Ethereum be between $4600 and $4700 on August 22?,Crypto,inferred,YES,True,,0.0235,0.0025,0.9975,138541.98,138195.63,2025-08-22,other,false
+38111,What price will Bitcoin hit on August 17?,Will Bitcoin dip to 116k on August 17?,Crypto,inferred,YES,False,,,0.0450,0.9550,3752.56,3583.69,2025-08-18,crypto_price_bracket,false
+38135,PGA TOUR Championship - First Round Leader ,Will Russell Henley be the first round leader at the 2025 Tour Championship?,Sports,inferred,YES,True,,0.0315,0.2515,0.9685,3719.60,3602.43,2025-08-22,other,false
+38180,Highest temperature in NYC on August 20?,Will the highest temperature in New York City be 70°F or below on August 20?,Other,inferred,YES,True,,0.0200,0.0430,0.9800,56806.25,55670.12,2025-08-20,other,false
+38314,"Bitcoin above ___ on August 19, 4PM ET?",Bitcoin above $113.5K on August 19 at 4PM ET?,Crypto,inferred,NO,False,,,0.9550,0.9550,175573.17,167672.38,2025-08-19,crypto_price_bracket,false
+38881,"Ethereum Price - August 22, 4PM ET",Will the price of Ethereum be greater than $4600 on August 22 at 4PM ET?,Crypto,inferred,YES,True,,,0.0125,0.9875,36510.61,36054.23,2025-08-22,other,false
+38882,"Bitcoin above ___ on August 22, 4PM ET?",Bitcoin above $116K on August 22 at 4PM ET?,Crypto,inferred,YES,False,,,0.0205,0.9795,65361.72,64021.80,2025-08-22,crypto_price_bracket,false
+39367,"Bitcoin Price - August 24, 4PM ET",Will the price of Bitcoin be less than $113K on August 24 at 4PM ET?,Crypto,inferred,YES,True,,,0.0230,0.9770,28497.74,27842.29,2025-08-24,other,false
+39369,"Bitcoin above ___ on August 24, 4PM ET?",Bitcoin above $112.5K on August 24 at 4PM ET?,Crypto,inferred,NO,False,,,0.9870,0.9870,61958.55,61153.09,2025-08-24,crypto_price_bracket,false
+39369,"Bitcoin above ___ on August 24, 4PM ET?",Bitcoin above $113K on August 24 at 4PM ET?,Crypto,inferred,NO,False,,,0.9760,0.9760,51249.06,50019.09,2025-08-24,crypto_price_bracket,false
+40057,CS2: BLAST Open London 2025,Will G2 win the BLAST Open London 2025 tournament?,Other,inferred,YES,True,,0.0250,0.0170,0.9830,368097.94,361840.27,2025-09-01,other,false
+31574, James Comey indicted before October?, James Comey indicted before October?,Other,inferred,YES,False,0.0090,0.9995,0.9995,0.9910,96303.44,95436.71,2025-09-30,other,false
+34012,Will Metaplanet hold 20k+ BTC by August 31?,Will Metaplanet hold 20k+ BTC by August 31?,Crypto,inferred,YES,False,0.4300,0.0295,0.0350,0.9705,10744.19,10427.24,2025-09-01,other,false
+37215,Fantasy Football: WR Points Leader - Week 1 ,Will Zay Flowers record the most fantasy points in Week 1?,Other,inferred,YES,True,0.0110,0.0105,0.5290,0.9895,3249.53,3215.41,2025-09-09,other,false
+39655,When will Bryson DeChambeau complete the Bentley shot?,Will Bryson DeChambeau complete the shot on Day 12?,Other,inferred,YES,True,0.0240,0.0240,0.0240,0.9760,7845.48,7657.19,2025-10-01,other,false
+39880,Who will Trump meet with in September?,Will Trump meet with Elon Musk in September?,Politics,inferred,YES,False,0.0280,0.0280,0.0280,0.9720,44879.83,43623.19,2025-09-30,other,false
+40677,Will Trump sign an executive order on...? (August 30 - September 5),Will Donald Trump sign an executive order on September 4?,Politics,inferred,YES,False,,0.2950,0.0100,0.9900,17490.03,17315.13,2025-09-05,other,false
+41144,Successful Houthi attack on shipping by September 30?,Successful Houthi attack on shipping by September 30?,Other,inferred,YES,False,0.1350,0.0950,0.0335,0.9665,47396.67,45808.88,2025-09-30,other,false
+41369,How many seats will the Progress Party (FrP) win in Norwegian Election?,Will the Progress Party (FrP) win more than 46 seats in the Norwegian election?,Politics,inferred,YES,True,,0.0360,0.1140,0.9640,4649.71,4482.32,2025-09-08,other,false
+41526,"Ethereum above ___ on September 3, 12PM ET?","Will the price of Ethereum be above $4,475 on September 3 at 12PM ET?",Crypto,inferred,YES,False,,,0.0400,0.9600,9367.07,8992.39,2025-09-03,crypto_price_bracket,false
+41787,"Ethereum above ___ on September 4, 12PM ET?","Will the price of Ethereum be above $4,300 on September 4 at 12PM ET?",Crypto,inferred,NO,False,,,0.9600,0.9600,3316.40,3183.75,2025-09-04,crypto_price_bracket,false
+42225,Highest temperature in London on September 7?,Will the highest temperature in London be between 78-79°F on September 7?,Other,inferred,YES,True,,0.0265,0.2365,0.9735,7137.62,6948.47,2025-09-07,other,false
+42232,What will Trump say this week (September 8 - 14)?,"Will Trump say ""Tren de Aragua"" this week? (September 8-14)",Politics,inferred,YES,False,,0.2400,0.0250,0.9750,1006.79,981.62,2025-09-14,other,false
+42281,What will Oracle say during their next earnings call?,"Will anyone say ""Stargate"" during Oracle's 1st Quarter Fiscal Year 2026 Earnings Announcement?",Other,inferred,NO,False,,0.9350,0.9600,0.9600,1751.00,1680.96,2025-09-09,other,false
+42576,Highest temperature in NYC on September 10?,Will the highest temperature in New York City be between 73-74°F on September 10?,Other,inferred,YES,True,,0.1900,0.0075,0.9925,14715.75,14605.38,2025-09-10,other,false
+43002,"Ethereum Price - September 10, 12PM ET","Will the price of Ethereum be between $4,400 and $4,425 on September 10 at 12PM ET?",Crypto,inferred,YES,True,,,0.0500,0.9500,2306.55,2191.23,2025-09-10,other,false
+44721,What price will Ethereum hit September 15-21?,"Will Ethereum dip to $4,300 September 15-21?",Crypto,inferred,YES,False,,0.0375,0.0245,0.9755,61547.57,60039.65,2025-09-22,crypto_price_bracket,false
+44962,Ethereum above ___ on September 22?,"Will the price of Ethereum be above $4,200 on September 22?",Crypto,inferred,NO,False,,0.9840,0.3750,0.9840,40902.89,40248.45,2025-09-22,crypto_price_bracket,false
+44971,Ethereum price on September 22?,"Will the price of Ethereum be between $4,100 and $4,200 on September 22?",Crypto,inferred,YES,True,,0.0160,0.4950,0.9840,17896.30,17609.96,2025-09-22,other,false
+45227,"Elon Musk musk # tweets September 19 - September 26, 2025?","Will Elon Musk post 120-139 tweets from September 19 to September 26, 2025?",Tech,inferred,YES,True,0.0320,0.5520,0.9305,0.9680,267892.43,259319.87,2025-09-26,musk_tweet_bracket,false
+47165,Hangzhou Open: Yibing Wu vs Daniil Medvedev,Hangzhou Open: Yibing Wu vs Daniil Medvedev,Other,inferred,YES,False,0.2450,0.0450,0.0450,0.9550,19644.75,18760.74,2025-09-28,other,false
+48180,Solana above ___ on September 29?,Will the price of Solana be above $210 on September 29?,Crypto,inferred,YES,False,,0.0500,0.1540,0.9500,61445.14,58372.89,2025-09-29,crypto_price_bracket,false
+50152,Highest temperature in NYC on September 29?,Will the highest temperature in New York City be 74°F or below on September 29?,Other,inferred,YES,True,,0.0450,0.0225,0.9775,43726.72,42742.87,2025-09-29,other,false
+50260,Solana Up or Down on September 28?,Solana Up or Down on September 28?,Crypto,inferred,YES,False,,0.5000,0.0405,0.9595,75205.41,72159.60,2025-09-28,other,false
+31406,Nobel Peace Prize Winner 2025 ,Will María Corina Machado win the Nobel Peace Prize in 2025?,Other,inferred,YES,True,0.0070,0.0075,0.0185,0.9930,2243005.86,2227304.82,2025-10-10,other,false
+37579,'The Life of a Showgirl' first week album sales?,Will The Life of a Showgirl’s first-week album sales be 4000000 or more?,Entertainment,inferred,YES,True,0.0150,0.5125,0.5845,0.9850,448650.58,441920.82,2025-10-10,other,false
+39637,Turnout in 2025 Czech Parliamentary Election?,Will turnout be between 66% and 69% in the Czech election?,Politics,inferred,YES,True,0.0445,0.3700,0.3795,0.9555,26453.84,25276.64,2025-10-03,other,false
+48228,F1 Singapore Grand Prix – Pole Winner,Will George Russell win the 2025 F1 Singapore Grand Prix pole?,Sports,inferred,YES,True,0.1000,0.0495,0.0670,0.9505,9965.23,9471.95,2025-10-05,other,false
+48235,F1 Singapore Grand Prix Winner,Will George Russell win the 2025 F1 Singapore Grand Prix?,Sports,inferred,YES,True,0.0345,0.0250,0.0290,0.9750,213649.50,208308.26,2025-10-05,other,false
+49333,Bitcoin price on October 1?,"Will the price of Bitcoin be between $116,000 and $118,000 on October 1?",Crypto,inferred,YES,True,,0.0440,0.7770,0.9560,148315.16,141789.30,2025-10-01,other,false
+49338,Bitcoin above ___ on October 1?,"Will the price of Bitcoin be above $116,000 on October 1?",Crypto,inferred,YES,False,,0.0455,0.8520,0.9545,169387.44,161680.31,2025-10-01,crypto_price_bracket,false
+51767,Penn State vs. UCLA,Penn State vs. UCLA,Other,inferred,NO,False,,0.9550,0.9550,0.9550,240776.54,229941.60,2025-10-04,other,false
+52056,What will Trump say in October?,"Will Trump say ""Chile"" or ""New Zealand"" or ""Albania"" in October?",Politics,inferred,YES,False,0.2450,0.0400,0.9800,0.9600,7403.27,7107.14,2025-10-31,other,false
+52068,Bitcoin price on October 7?,"Will the price of Bitcoin be between $120,000 and $122,000 on October 7?",Crypto,inferred,YES,True,,0.1300,0.0270,0.9730,67275.99,65459.53,2025-10-07,other,false
+52068,Bitcoin price on October 7?,"Will the price of Bitcoin be greater than $122,000 on October 7?",Crypto,inferred,NO,True,,0.8200,0.9725,0.9725,60501.91,58838.11,2025-10-07,other,false
+52081,Ethereum price on October 7?,"Will the price of Ethereum be between $4,500 and $4,600 on October 7?",Crypto,inferred,YES,True,,0.3000,0.0430,0.9570,14341.64,13724.95,2025-10-07,other,false
+52081,Ethereum price on October 7?,"Will the price of Ethereum be greater than $4,600 on October 7?",Crypto,inferred,NO,True,,0.4100,0.9600,0.9600,37338.34,35844.81,2025-10-07,other,false
+52083,Bitcoin above ___ on October 7?,"Will the price of Bitcoin be above $122,000 on October 7?",Crypto,inferred,NO,False,,0.8250,0.9720,0.9720,156753.47,152364.37,2025-10-07,crypto_price_bracket,false
+52100,XRP price on October 7?,Will the price of XRP be between $2.80 and $2.90 on October 7?,Crypto,inferred,YES,True,,0.1500,0.0400,0.9600,41568.09,39905.37,2025-10-07,other,false
+52101,XRP above ___ on October 7?,Will the price of XRP be above $2.90 on October 7?,Crypto,inferred,NO,False,,0.8050,0.9655,0.9655,12941.15,12494.68,2025-10-07,crypto_price_bracket,false
+52657,Ethereum price on October 8?,"Will the price of Ethereum be between $4,400 and $4,500 on October 8?",Crypto,inferred,YES,True,,0.0350,0.5245,0.9650,24156.14,23310.68,2025-10-08,other,false
+53578,Ethereum above ___ on October 10?,"Will the price of Ethereum be above $4,100 on October 10?",Crypto,inferred,NO,False,,0.9690,0.9865,0.9865,141815.33,139900.82,2025-10-10,crypto_price_bracket,false
+53578,Ethereum above ___ on October 10?,"Will the price of Ethereum be above $4,200 on October 10?",Crypto,inferred,NO,False,,0.8890,0.9855,0.9855,125434.97,123616.17,2025-10-10,crypto_price_bracket,false
+53581,Bitcoin price on October 10?,"Will the price of Bitcoin be between $118,000 and $120,000 on October 10?",Crypto,inferred,YES,True,,0.0950,0.0500,0.9500,97347.45,92480.08,2025-10-10,other,false
+53610,Ethereum price on October 10?,"Will the price of Ethereum be less than $4,100 on October 10?",Crypto,inferred,YES,True,,0.0335,0.0030,0.9970,59334.99,59156.98,2025-10-10,other,false
+54081,Ethereum above ___ on October 11?,"Will the price of Ethereum be above $4,000 on October 11?",Crypto,inferred,NO,False,,0.9925,0.1915,0.9925,112619.65,111775.00,2025-10-11,crypto_price_bracket,false
+54081,Ethereum above ___ on October 11?,"Will the price of Ethereum be above $4,100 on October 11?",Crypto,inferred,NO,False,,0.9825,0.1285,0.9825,45497.52,44701.31,2025-10-11,crypto_price_bracket,false
+54085,Bitcoin price on October 11?,"Will the price of Bitcoin be less than $112,000 on October 11?",Crypto,inferred,YES,True,,0.0145,0.3915,0.9855,79470.99,78318.66,2025-10-11,other,false
+54086,Shanghai Rolex Masters: Tallon Griekspoor vs Jannik Sinner,Shanghai Rolex Masters: Tallon Griekspoor vs Jannik Sinner,Other,inferred,YES,False,0.0450,0.5000,0.5000,0.9550,202292.73,193189.56,2025-10-12,other,false
+54095,Bitcoin above ___ on October 11?,"Will the price of Bitcoin be above $112,000 on October 11?",Crypto,inferred,NO,False,,0.9970,0.6480,0.9970,166926.00,166425.22,2025-10-11,crypto_price_bracket,false
+54095,Bitcoin above ___ on October 11?,"Will the price of Bitcoin be above $114,000 on October 11?",Crypto,inferred,NO,False,,0.9950,0.1325,0.9950,118029.55,117439.40,2025-10-11,crypto_price_bracket,false
+54095,Bitcoin above ___ on October 11?,"Will the price of Bitcoin be above $116,000 on October 11?",Crypto,inferred,NO,False,,0.9860,0.0375,0.9860,67010.24,66072.10,2025-10-11,crypto_price_bracket,false
+54095,Bitcoin above ___ on October 11?,"Will the price of Bitcoin be above $118,000 on October 11?",Crypto,inferred,NO,False,,0.9600,0.0055,0.9600,116402.90,111746.79,2025-10-11,crypto_price_bracket,false
+54096,Ethereum price on October 11?,"Will the price of Ethereum be less than $4,000 on October 11?",Crypto,inferred,YES,True,,0.0175,0.7665,0.9825,64784.67,63650.94,2025-10-11,other,false
+54097,Solana above ___ on October 11?,Will the price of Solana be above $190 on October 11?,Crypto,inferred,NO,False,,0.9835,0.3455,0.9835,20169.56,19836.77,2025-10-11,crypto_price_bracket,false
+54097,Solana above ___ on October 11?,Will the price of Solana be above $200 on October 11?,Crypto,inferred,NO,False,,0.9900,0.4545,0.9900,60279.51,59676.71,2025-10-11,crypto_price_bracket,false
+54097,Solana above ___ on October 11?,Will the price of Solana be above $210 on October 11?,Crypto,inferred,NO,False,,0.9680,0.0080,0.9680,32530.35,31489.38,2025-10-11,crypto_price_bracket,false
+54098,Solana price on October 11?,Will the price of Solana be between $180 and $190 on October 11?,Crypto,inferred,YES,True,,0.0065,0.5505,0.9935,29045.08,28856.29,2025-10-11,other,false
+54099,XRP above ___ on October 11?,Will the price of XRP be above $2.50 on October 11?,Crypto,inferred,NO,False,,0.9815,0.4660,0.9815,22871.76,22448.63,2025-10-11,crypto_price_bracket,false
+54099,XRP above ___ on October 11?,Will the price of XRP be above $2.60 on October 11?,Crypto,inferred,NO,False,,0.9760,0.5005,0.9760,14868.64,14511.79,2025-10-11,crypto_price_bracket,false
+54100,XRP price on October 11?,Will the price of XRP be less than $2.50 on October 11?,Crypto,inferred,YES,True,,0.0060,0.5000,0.9940,46770.57,46489.95,2025-10-11,other,false
+54519,Ethereum above ___ on October 12?,"Will the price of Ethereum be above $4,000 on October 12?",Crypto,inferred,YES,False,,0.1415,0.0175,0.9825,159802.82,157006.27,2025-10-12,crypto_price_bracket,false
+54543,Solana above ___ on October 12?,Will the price of Solana be above $190 on October 12?,Crypto,inferred,YES,False,,0.2385,0.0195,0.9805,56347.73,55248.95,2025-10-12,crypto_price_bracket,false
+54549,Solana price on October 12?,Will the price of Solana be less than $190 on October 12?,Crypto,inferred,NO,True,,0.7410,0.9690,0.9690,115388.56,111811.52,2025-10-12,other,false
+54549,Solana price on October 12?,Will the price of Solana be between $190 and $200 on October 12?,Crypto,inferred,YES,True,,0.1760,0.0335,0.9665,59831.96,57827.59,2025-10-12,other,false
+54763,What price will Bitcoin hit October 6-12?,"Will Bitcoin dip to $114,000 October 6-12?",Crypto,inferred,YES,False,,0.0170,0.0170,0.9830,139629.57,137255.86,2025-10-13,crypto_price_bracket,false
+54763,What price will Bitcoin hit October 6-12?,"Will Bitcoin dip to $116,000 October 6-12?",Crypto,inferred,YES,False,,0.0500,0.0500,0.9500,156786.47,148947.15,2025-10-13,crypto_price_bracket,false
+54771,What price will Ethereum hit October 6-12?,"Will Ethereum dip to $4,000 October 6-12?",Crypto,inferred,YES,False,,0.0480,0.0480,0.9520,182203.00,173457.25,2025-10-13,crypto_price_bracket,false
+54771,What price will Ethereum hit October 6-12?,"Will Ethereum dip to $3,900 October 6-12?",Crypto,inferred,YES,False,,0.0240,0.0240,0.9760,245883.31,239982.11,2025-10-13,crypto_price_bracket,false
+54790,What price will XRP hit October 6-12?,Will XRP dip to $2.40 October 6-12?,Crypto,inferred,YES,False,,0.0090,0.0090,0.9910,30471.98,30197.73,2025-10-13,crypto_price_bracket,false
+54790,What price will XRP hit October 6-12?,Will XRP dip to $2.30 October 6-12?,Crypto,inferred,YES,False,,0.0030,0.0030,0.9970,111190.65,110857.08,2025-10-13,crypto_price_bracket,false
+55117,# of views of “The Fate of Ophelia” on Friday?,Will “The Fate of Ophelia” have between 45–50 million views on Friday at noon?,Other,inferred,YES,True,,0.0160,0.0005,0.9995,26558.98,26545.70,2025-10-10,other,false
+55437,São Tomé e Príncipe vs. Malawi,Will São Tomé e Príncipe win on 2025-10-13?,Sports,inferred,YES,True,,0.0450,0.0445,0.9555,33057.38,31586.33,2025-10-13,other,false
+55597,Highest temperature in London on October 9?,Will the highest temperature in London be 59°F or below on October 9?,Other,inferred,YES,True,,0.0135,0.0055,0.9945,58732.16,58409.14,2025-10-09,other,false
+57012,Ethereum price on October 16?,"Will the price of Ethereum be less than $3,900 on October 16?",Crypto,inferred,YES,True,,0.1100,0.0210,0.9790,143064.27,140059.92,2025-10-16,other,false
+57359,Highest temperature in London on October 14?,Will the highest temperature in London be between 56-57°F on October 14?,Other,inferred,YES,True,,0.0315,0.1860,0.9685,12783.26,12380.59,2025-10-14,other,false
+57502,XRP Up or Down on October 12?,XRP Up or Down on October 12?,Crypto,inferred,YES,False,,0.5050,0.0335,0.9665,17799.28,17203.00,2025-10-12,other,false
+57719,Will Trump pardon CZ by October 31?,Will Trump pardon CZ by October 31?,Politics,inferred,YES,False,0.0460,0.0460,0.0460,0.9540,381337.13,363795.62,2025-10-31,other,false
+59458,"Elon Musk # tweets October 17 - October 24, 2025?","Will Elon Musk post 280-299 tweets from October 17 to October 24, 2025?",Tech,inferred,YES,True,0.0410,0.2585,0.5140,0.9590,485714.61,465800.31,2025-10-24,musk_tweet_bracket,false
+59639,Bitcoin price on October 21?,"Will the price of Bitcoin be between $112,000 and $114,000 on October 21?",Crypto,inferred,YES,True,,0.2315,0.0285,0.9715,94694.74,91995.94,2025-10-21,other,false
+59652,Ethereum price on October 21?,"Will the price of Ethereum be between $4,000 and $4,100 on October 21?",Crypto,inferred,YES,True,,0.2800,0.0430,0.9570,12303.19,11774.16,2025-10-21,other,false
+59657,Bitcoin above ___ on October 21?,"Will the price of Bitcoin be above $112,000 on October 21?",Crypto,inferred,YES,False,,0.3550,0.0120,0.9880,260720.52,257591.87,2025-10-21,crypto_price_bracket,false
+61178,"Elon Musk # tweets October 21 - October 28, 2025?","Will Elon Musk post 180-199 tweets from October 21 to October 28, 2025?",Tech,inferred,YES,True,0.0400,0.0650,0.7085,0.9600,380367.08,365152.40,2025-10-28,musk_tweet_bracket,false
+61811,Bitcoin Up or Down on October 21?,Bitcoin Up or Down on October 21?,Crypto,inferred,YES,False,,0.5000,0.0295,0.9705,505029.74,490131.36,2025-10-21,other,false
+62043,What price will Ethereum hit October 20-26?,"Will Ethereum reach $4,200 October 20-26?",Crypto,inferred,YES,False,,0.0315,0.4245,0.9685,325227.83,314983.16,2025-10-27,crypto_price_bracket,false
+28797,Will Trump endorse a candidate for NYC Mayor?,Will Trump endorse a candidate for NYC Mayor?,Politics,inferred,YES,False,0.0395,0.2090,0.9995,0.9605,72328.24,69471.27,2025-11-05,other,false
+42376,Who will Trump endorse for NYC Mayor?,Will Trump make no endorsement for NYC Mayor?,Politics,inferred,NO,True,0.9350,0.9500,0.9740,0.9740,109019.03,106184.54,2025-11-03,other,false
+42376,Who will Trump endorse for NYC Mayor?,Will Trump endorse Andrew Cuomo for NYC Mayor?,Politics,inferred,YES,True,0.0650,0.0400,0.0245,0.9755,85824.22,83721.53,2025-11-03,other,false
+52532,What price will XRP hit in October?,Will XRP dip to $2.00 in October?,Crypto,inferred,YES,False,0.0385,0.0385,0.0385,0.9615,315420.81,303277.11,2025-11-01,crypto_price_bracket,false
+52532,What price will XRP hit in October?,Will XRP dip to $1.50 in October?,Crypto,inferred,YES,False,0.0095,0.0095,0.0095,0.9905,134607.54,133328.77,2025-11-01,crypto_price_bracket,false
+52577,What price will Dogecoin hit in October?,Will Dogecoin dip to $0.15 in October?,Other,inferred,YES,False,0.0060,0.0060,0.0060,0.9940,10950.35,10884.65,2025-11-01,other,false
+62251,Finland vs. Malta,Will Malta win on 2025-11-14?,Sports,inferred,YES,True,0.0415,0.0635,0.0850,0.9585,65404.14,62689.86,2025-11-14,other,false
+62262,Denmark vs. Belarus,Will Denmark vs. Belarus end in a draw?,Other,inferred,YES,True,0.0900,0.0390,0.0555,0.9610,68685.34,66006.61,2025-11-15,other,false
+63109,MLB World Series MVP,Will Yoshinobu Yamamoto be named the 2025 World Series MVP?,Sports,inferred,YES,True,0.0500,0.2100,0.1800,0.9500,8183.29,7774.12,2025-11-01,other,false
+66255,Solana price on November 3?,Will the price of Solana be between $160 and $170 on November 3?,Crypto,inferred,YES,True,,0.0145,0.0765,0.9855,32818.88,32343.01,2025-11-03,other,false
+66257,Solana above ___ on November 3?,Will the price of Solana be above $170 on November 3?,Crypto,inferred,NO,False,,0.9770,0.9185,0.9770,84721.77,82773.17,2025-11-03,crypto_price_bracket,false
+67135,Solana price on November 4?,Will the price of Solana be between $150 and $160 on November 4?,Crypto,inferred,YES,True,,0.0205,0.3000,0.9795,11973.58,11728.12,2025-11-04,other,false
+67141,Solana above ___ on November 4?,Will the price of Solana be above $160 on November 4?,Crypto,inferred,NO,False,,0.9785,0.6915,0.9785,111369.25,108974.81,2025-11-04,crypto_price_bracket,false
+68391,Who will Trump talk to in November?,Will Trump talk to Xi Jinping in November?,Politics,inferred,YES,False,0.0230,0.0270,0.0270,0.9770,88598.86,86561.09,2025-11-30,other,false
+69537,#1 Free App in the US Apple App Store on November 7?,Will ChatGPT be #1 Free App in the US Apple App Store on November 7?,Tech,inferred,NO,True,,0.9565,0.9765,0.9765,233659.21,228168.22,2025-11-07,other,false
+69537,#1 Free App in the US Apple App Store on November 7?,Will BigFuture School be #1 Free App in the US Apple App Store on November 7?,Other,inferred,YES,True,,0.0020,0.0015,0.9985,90242.74,90107.37,2025-11-07,other,false
+72198,"""The Running Man"" Rotten Tomatoes score?","Will ""The Running Man"" score at least 75 on the Rotten Tomatoes Tomatometer?",Other,inferred,NO,False,0.9550,0.0070,0.0025,0.9550,7590.25,7248.69,2025-11-17,other,false
+73873,Ethereum above ___ on November 12?,"Will the price of Ethereum be above $3,400 on November 12?",Crypto,inferred,NO,False,,0.9150,0.9650,0.9650,256197.76,247230.83,2025-11-12,crypto_price_bracket,false
+73875,Bitcoin price on November 12?,"Will the price of Bitcoin be between $100,000 and $102,000 on November 12?",Crypto,inferred,YES,True,,0.0630,0.0165,0.9835,342505.29,336853.95,2025-11-12,other,false
+74701,Ethereum price on November 13?,"Will the price of Ethereum be between $3,300 and $3,400 on November 13?",Crypto,inferred,YES,True,,0.0950,0.0360,0.9640,39292.48,37877.95,2025-11-13,other,false
+74707,XRP price on November 13?,Will the price of XRP be between $2.30 and $2.40 on November 13?,Crypto,inferred,YES,True,,0.2550,0.0315,0.9685,13775.10,13341.18,2025-11-13,other,false
+74708,XRP above ___ on November 13?,Will the price of XRP be above $2.40 on November 13?,Crypto,inferred,NO,False,,0.6250,0.9600,0.9600,49313.44,47340.90,2025-11-13,crypto_price_bracket,false
+74794,Chile Presidential Election 1st round: 3rd Place,Will Franco Parisi come in third in the 1st round of the 2025 Chilean presidential election?,Politics,inferred,YES,True,0.0470,0.0595,0.0700,0.9530,55568.18,52956.47,2025-11-16,other,false
+75469,Highest temperature in NYC on November 9?,Will the highest temperature in New York City be between 64-65°F on November 9?,Other,inferred,YES,True,,0.0900,0.0425,0.9575,41186.37,39435.95,2025-11-09,other,false
+75482,Bitcoin price on November 14?,"Will the price of Bitcoin be between $96,000 and $98,000 on November 14?",Crypto,inferred,YES,True,,0.0240,0.4150,0.9760,236319.13,230647.47,2025-11-14,other,false
+75491,Bitcoin above ___ on November 14?,"Will the price of Bitcoin be above $98,000 on November 14?",Crypto,inferred,NO,False,,0.9710,0.1580,0.9710,872245.81,846950.69,2025-11-14,crypto_price_bracket,false
+75543,"Elon Musk # tweets November 7 - November 14, 2025?","Will Elon Musk post 240-259 tweets from November 7 to November 14, 2025?",Tech,inferred,YES,True,,0.0120,0.0670,0.9880,1239839.71,1224961.63,2025-11-14,musk_tweet_bracket,false
+75809,"Elon Musk # tweets November 11 - November 18, 2025?","Will Elon Musk post 260-279 tweets from November 11 to November 18, 2025?",Tech,inferred,YES,True,0.0205,0.4615,0.5375,0.9795,1155382.81,1131697.47,2025-11-18,musk_tweet_bracket,false
+19581,Who will be the next Pope?,Will Robert Francis Prevost be the next pope?,Other,inferred,YES,True,0.0150,0.0150,0.0150,0.9850,1415174.07,1393946.46,2025-12-31,other,false
+19583,What continent will next Pope be from?,Will the next Pope be from North America?,Other,inferred,YES,True,0.0135,0.0135,0.0135,0.9865,300652.66,296593.85,2025-12-31,other,false
+23202,What country will next Pope be from?,Will the next Pope after Francis be from the United States?,Other,inferred,YES,True,0.0185,0.0185,0.0185,0.9815,22126.36,21717.02,2025-12-31,other,false
+23570,Will U.S. tourism decline in April?,Will U.S. tourism decline in April?,Other,inferred,NO,False,0.9770,0.9770,0.9770,0.9770,61705.20,60285.98,2025-12-31,other,false
+30811,ACC Championship Game Winner,Will Duke win the 2025 ACC Conference Championship Game?,Sports,inferred,YES,True,0.0115,0.3505,0.2270,0.9885,5746.09,5680.01,2025-12-07,other,false
+32807,Will Trump veto a bill in 2025?,Will Trump veto a bill in 2025?,Politics,inferred,YES,False,0.0070,0.0030,0.0025,0.9975,71601.03,71422.02,2025-12-31,other,false
+32950,Who will be named in newly released Epstein files in 2025?,Will Joe Biden be named in newly released Epstein files?,Politics,inferred,YES,False,0.0275,0.0275,0.0275,0.9725,110218.17,107187.17,2025-12-31,other,false
+32950,Who will be named in newly released Epstein files in 2025?,Will Bernie Sanders be named in newly released Epstein files?,Other,inferred,YES,False,0.0150,0.0150,0.0150,0.9850,57258.57,56399.69,2025-12-31,other,false
+33656,Will Russia capture Myrnohrad by...?,Will Russia capture Myrnohrad by November 15?,Geopolitics,inferred,YES,False,0.0100,0.0100,0.0100,0.9900,207629.65,205553.36,2025-12-31,other,false
+36719,Will Israel strike Greater Beirut by...?,Will Israel strike Greater Beirut by November 30?,Geopolitics,inferred,YES,False,0.0310,0.0310,0.0310,0.9690,16545.50,16032.59,2025-12-31,other,true
+39616,US strikes Yemen by...?,US strikes Yemen by December 31?,Other,inferred,YES,False,0.0320,0.0275,0.0260,0.9740,3348633.82,3261569.34,2025-12-31,other,true
+45936,Champions League: Which teams advance to round of 16?,Will Bodø/Glimt advance to the round of 16?,Sports,inferred,YES,False,0.0030,0.0015,0.0015,0.9985,129453.12,129258.94,2025-12-31,other,false
+57026,Which artists will release a new song before 2026?,Will SZA release a new song in 2025?,Entertainment,inferred,YES,False,0.5245,0.0275,0.0205,0.9795,1192326.37,1167883.68,2025-12-31,other,false
+71687,US strikes Nigeria by...?,US strikes Nigeria by December 31?,Other,inferred,YES,False,0.0210,0.9950,0.9950,0.9790,504660.40,494062.53,2025-12-31,other,false
+75544,Elon Musk musk # tweets in November 2025?,Will Elon Musk post 920-959 tweets in November 2025?,Tech,inferred,YES,True,0.0425,0.3375,0.4480,0.9575,63983.43,61264.14,2025-12-01,musk_tweet_bracket,false
+80636,November Inflation - Annual,Will annual inflation increase by ≤2.8% in November?,Macro,inferred,YES,True,0.0210,0.0060,0.0090,0.9940,166166.98,165169.97,2025-12-18,other,false
+83661,Goodreads Choice Awards: Readers' Favorite Mystery & Thriller,Will Not Quite Dead Yet (Holly Jackson) win Readers' Favorite Mystery & Thriller in the 2025 Goodreads Choice Awards?,Other,inferred,YES,True,0.0325,0.0350,0.0240,0.9760,3975.67,3880.25,2025-12-04,other,false
+84716,Goodreads Choice Awards: Readers' Favorite Young Adult Fiction,Will Fake Skating (Lynn Painter) win Readers’ Favorite Young Adult Fiction in the 2025 Goodreads Choice Awards?,Other,inferred,YES,True,0.4050,0.4300,0.0305,0.9695,3661.91,3550.22,2025-12-04,other,false
+84897,Paul vs Joshua - # of knockdowns,Will there be 4+ knockdowns during Paul vs Joshua?,Other,inferred,YES,True,0.1700,0.1165,0.0160,0.9840,26205.70,25786.41,2025-12-19,other,false
+87321,"Elon Musk # tweets November 25 - December 2, 2025?","Will Elon Musk post 260-279 tweets from November 25 to December 2, 2025?",Tech,inferred,YES,True,0.0460,0.3485,0.4780,0.9540,1112541.62,1061364.71,2025-12-02,musk_tweet_bracket,false
+88909,World Test Championship: New Zealand vs West Indies (Game 1),Will New Zealand win?,Sports,inferred,NO,True,0.8150,0.9650,0.9650,0.9650,113458.42,109487.37,2025-12-08,other,false
+88909,World Test Championship: New Zealand vs West Indies (Game 1),Will the match end in a draw?,Sports,inferred,YES,True,0.0900,0.0295,0.0295,0.9705,50227.54,48745.83,2025-12-08,other,false
+89159,Qatar Grand Prix: Driver Podium Finish,Will Carlos Sainz Jr. finish on the podium at the 2025 F1 Qatar Grand Prix?,Sports,inferred,YES,False,0.0450,0.0450,0.0450,0.9550,7097.13,6777.76,2025-12-07,other,false
+89411,Will Trump meet with Zelenskyy by...?,Will Trump meet with Zelenskyy by December 31?,Politics,inferred,YES,False,0.0335,0.9955,0.9955,0.9665,2074527.84,2005031.15,2025-12-31,other,false
+89421,Ethereum above ___ on December 1?,"Will the price of Ethereum be above $2,800 on December 1?",Crypto,inferred,NO,False,,0.9725,0.8055,0.9725,157002.76,152685.19,2025-12-01,crypto_price_bracket,false
+89424,Bitcoin price on December 1?,"Will the price of Bitcoin be between $84,000 and $86,000 on December 1?",Crypto,inferred,YES,True,,0.0080,0.3605,0.9920,159703.50,158425.87,2025-12-01,other,false
+89428,Bitcoin above ___ on December 1?,"Will the price of Bitcoin be above $86,000 on December 1?",Crypto,inferred,NO,False,,0.9760,0.5835,0.9760,525455.90,512844.96,2025-12-01,crypto_price_bracket,false
+89429,Ethereum price on December 1?,"Will the price of Ethereum be between $2,700 and $2,800 on December 1?",Crypto,inferred,YES,True,,0.0260,0.1760,0.9740,53982.08,52578.54,2025-12-01,other,false
+89439,XRP price on December 1?,Will the price of XRP be between $1.90 and $2.00 on December 1?,Crypto,inferred,YES,True,,0.0240,0.1660,0.9760,12193.75,11901.10,2025-12-01,other,false
+89440,XRP above ___ on December 1?,Will the price of XRP be above $2.00 on December 1?,Crypto,inferred,NO,False,,0.9640,0.8090,0.9640,23801.12,22944.28,2025-12-01,crypto_price_bracket,false
+89478,Price of dozen eggs in November?,Will a dozen eggs cost between $2.75–3.00 in November?,Other,inferred,YES,True,0.0650,0.0300,0.0300,0.9700,27584.38,26756.85,2025-12-18,other,false
+90236,Ethereum above ___ on December 2?,"Will the price of Ethereum be above $3,000 on December 2?",Crypto,inferred,YES,False,,0.0850,0.0030,0.9970,335297.58,334291.69,2025-12-02,crypto_price_bracket,false
+90238,Bitcoin price on December 2?,"Will the price of Bitcoin be between $90,000 and $92,000 on December 2?",Crypto,inferred,YES,True,,0.0600,0.0230,0.9770,167906.40,164044.55,2025-12-02,other,false
+90245,Ethereum price on December 2?,"Will the price of Ethereum be between $3,000 and $3,100 on December 2?",Crypto,inferred,YES,True,,0.0700,0.0040,0.9960,107081.06,106652.73,2025-12-02,other,false
+90246,Bitcoin above ___ on December 2?,"Will the price of Bitcoin be above $90,000 on December 2?",Crypto,inferred,YES,False,,0.0800,0.0270,0.9730,888432.47,864444.79,2025-12-02,crypto_price_bracket,false
+90625,Bucharest Mayoral Election Margin of Victory,Will Ciucu win by at least 12%?,Politics,inferred,YES,True,0.0550,0.0350,0.0190,0.9810,62558.56,61369.95,2025-12-07,other,false
+91089,#1 Free App in the US Apple App Store on December 5?,Will ChatGPT be #1 Free App in the US Apple App Store on December 5?,Tech,inferred,NO,True,,0.9680,0.9755,0.9755,141668.70,138197.82,2025-12-05,other,false
+91090,#2 Free App in the US Apple App Store on December 5?,Will ChatGPT be #2 Free App in the US Apple App Store on December 5?,Tech,inferred,YES,True,,0.0195,0.0435,0.9805,51591.40,50585.37,2025-12-05,other,false
+91125,Who will Trump talk to in December?,Will Trump talk to Ursula von der Leyen in December?,Politics,inferred,YES,False,0.0450,0.9995,0.9995,0.9550,142970.00,136536.35,2025-12-31,other,false
+91135,Ethereum above ___ on December 3?,"Will the price of Ethereum be above $3,000 on December 3?",Crypto,inferred,YES,False,,0.0490,0.9195,0.9510,179638.46,170836.17,2025-12-03,crypto_price_bracket,false
+91137,Bitcoin price on December 3?,"Will the price of Bitcoin be between $92,000 and $94,000 on December 3?",Crypto,inferred,YES,True,,0.0310,0.6135,0.9690,173673.80,168289.91,2025-12-03,other,false
+91141,Bitcoin above ___ on December 3?,"Will the price of Bitcoin be above $92,000 on December 3?",Crypto,inferred,YES,False,,0.0340,0.8085,0.9660,657613.05,635254.20,2025-12-03,crypto_price_bracket,false
+91146,Ethereum price on December 3?,"Will the price of Ethereum be between $3,000 and $3,100 on December 3?",Crypto,inferred,YES,True,,0.0470,0.6505,0.9530,78801.25,75097.59,2025-12-03,other,false
+91149,Solana above ___ on December 3?,Will the price of Solana be above $140 on December 3?,Crypto,inferred,YES,False,,0.0500,0.7675,0.9500,29017.07,27566.22,2025-12-03,crypto_price_bracket,false
+91150,Solana price on December 3?,Will the price of Solana be between $140 and $150 on December 3?,Crypto,inferred,YES,True,,0.0460,0.7810,0.9540,17039.93,16256.10,2025-12-03,other,false
+91816,Arkansas-Pine Bluff Golden Lions vs. UIC Flames,Arkansas-Pine Bluff Golden Lions vs. UIC Flames,Other,inferred,YES,False,,0.3650,0.0345,0.9655,2094.24,2021.99,2025-12-03,other,false
+92824,Ciprian Ciucu % of vote in Bucharest Mayoral Election?,Will Ciprian Ciucu get between 35% and 40% of the vote in the Bucharest Mayoral election?,Politics,inferred,YES,True,,0.0360,0.0195,0.9805,23889.80,23423.95,2025-12-07,other,false
+92876,Will Meta (META) finish week of December 1 above___?,Will Meta (META) finish week of December 1 above $670?,Other,inferred,YES,False,,0.0105,0.4910,0.9895,2663.47,2635.50,2025-12-05,other,false
+92881,Will Tesla (TSLA) finish week of December 1 above___?,Will Tesla (TSLA) finish week of December 1 above $435?,Tech,inferred,YES,False,,0.8050,0.0500,0.9500,2806.00,2665.70,2025-12-05,other,false
+92893,Will Palantir (PLTR) close above ___ end of December?,Will Palantir (PLTR) close above $178 end of December?,Other,inferred,NO,False,0.8950,0.9610,0.8220,0.9610,24792.68,23825.76,2025-12-31,other,false
+93030,"Elon Musk # tweets December 2 - December 9, 2025?","Will Elon Musk post 420-439 tweets from December 2 to December 9, 2025?",Tech,inferred,YES,True,0.0045,0.1860,0.6335,0.9955,1401057.52,1394752.76,2025-12-09,musk_tweet_bracket,false
+94779,Abu Dhabi Grand Prix: Driver Fastest Lap,Will Charles Leclerc achieve the fastest lap at the 2025 F1 Abu Dhabi Grand Prix?,Sports,inferred,YES,True,0.0450,0.0450,0.0450,0.9550,3883.58,3708.82,2025-12-14,other,false
+95069,Bitcoin price on December 8?,"Will the price of Bitcoin be between $88,000 and $90,000 on December 8?",Crypto,inferred,YES,True,,0.3100,0.0355,0.9645,183589.46,177072.04,2025-12-08,other,false
+95453,"Elon Musk # tweets December 5 - December 12, 2025?","Will Elon Musk post 440-459 tweets from December 5 to December 12, 2025?",Tech,inferred,YES,True,0.0060,0.3415,0.8135,0.9940,883582.38,878280.88,2025-12-12,musk_tweet_bracket,false
+95859,Ethereum above ___ on December 9?,"Will the price of Ethereum be above $3,300 on December 9?",Crypto,inferred,YES,False,,0.1060,0.0075,0.9925,207525.51,205969.07,2025-12-09,crypto_price_bracket,false
+95862,Bitcoin price on December 9?,"Will the price of Bitcoin be between $94,000 and $96,000 on December 9?",Crypto,inferred,YES,True,,0.1360,0.0135,0.9865,137172.98,135321.14,2025-12-09,other,false
+95866,Bitcoin above ___ on December 9?,"Will the price of Bitcoin be above $94,000 on December 9?",Crypto,inferred,YES,False,,0.1950,0.0075,0.9925,663557.80,658581.11,2025-12-09,crypto_price_bracket,false
+95868,Ethereum price on December 9?,"Will the price of Ethereum be between $3,300 and $3,400 on December 9?",Crypto,inferred,YES,True,,0.0790,0.0060,0.9940,44275.79,44010.14,2025-12-09,other,false
+95871,Solana price on December 9?,Will the price of Solana be between $140 and $150 on December 9?,Crypto,inferred,YES,True,,0.3500,0.0265,0.9735,26961.89,26247.40,2025-12-09,other,false
+95872,Solana above ___ on December 9?,Will the price of Solana be above $140 on December 9?,Crypto,inferred,YES,False,,0.4000,0.0370,0.9630,22266.05,21442.20,2025-12-09,crypto_price_bracket,false
+95956,Do Kwon Prison Time?,Will Do Kwon be sentenced to 12+ years in prison?,Other,inferred,YES,True,0.1350,0.0850,0.0345,0.9655,32621.41,31495.97,2025-12-11,other,false
+95997,Highest temperature in NYC on December 4?,Will the highest temperature in New York City be between 43-44°F on December 4?,Other,inferred,YES,True,,0.0600,0.0175,0.9825,127404.98,125175.39,2025-12-04,other,false
+96699,PGA Tour: Hero World Challenge Winner,Will Hideki Matsuyama win the 2025 Hero World Challenge?,Sports,inferred,YES,True,,0.0400,0.1000,0.9600,4515.09,4334.48,2025-12-07,other,false
+97147,Delaware Fightin' Blue Hens vs. George Washington Revolutionaries,Delaware Fightin' Blue Hens vs. George Washington Revolutionaries,Other,inferred,YES,False,,0.1350,0.0450,0.9550,38706.05,36964.28,2025-12-11,other,false
+97940,Highest temperature in Dallas on December 6?,Will the highest temperature in Dallas be 54 °F or below on December 6?,Other,inferred,YES,True,,,0.0145,0.9855,10630.40,10476.26,2025-12-06,other,false
+98060,Ethereum above ___ on December 12?,"Will the price of Ethereum be above $3,100 on December 12?",Crypto,inferred,NO,False,,0.8020,0.9745,0.9745,218596.22,213022.02,2025-12-12,crypto_price_bracket,false
+98068,Ethereum price on December 12?,"Will the price of Ethereum be between $3,000 and $3,100 on December 12?",Crypto,inferred,YES,True,,0.1475,0.0200,0.9800,37587.06,36835.32,2025-12-12,other,false
+98279,Highest temperature in Atlanta on December 7?,Will the highest temperature in Atlanta be 48°F or below on December 7?,Other,inferred,YES,True,,,0.0350,0.9650,9412.84,9083.39,2025-12-07,other,false
+98328,"UFC Fight Night: Horth vs. Bleda (Women's Flyweight, Prelims)",O/U 0.5 Rounds,Sports,inferred,NO,False,0.8500,0.9050,0.9785,0.9785,2100.23,2055.07,2025-12-14,other,false
+100083,Ethereum above ___ on December 15?,"Will the price of Ethereum be above $3,000 on December 15?",Crypto,inferred,NO,False,,0.7700,0.9830,0.9830,311134.33,305845.04,2025-12-15,crypto_price_bracket,false
+100086,Bitcoin price on December 15?,"Will the price of Bitcoin be between $86,000 and $88,000 on December 15?",Crypto,inferred,YES,True,,0.1700,0.0365,0.9635,207118.50,199558.68,2025-12-15,other,false
+100088,Ethereum price on December 15?,"Will the price of Ethereum be between $2,900 and $3,000 on December 15?",Crypto,inferred,YES,True,,0.1555,0.0115,0.9885,80139.57,79217.97,2025-12-15,other,false
+101027,Highest temperature in Atlanta on December 11?,Will the highest temperature in Atlanta be between 52-53°F on December 11?,Other,inferred,YES,True,,0.1850,0.0420,0.9580,4243.17,4064.96,2025-12-11,other,false
+50289,Oscars 2026: Best Supporting Actor Nominations,Will Delroy Lindo be nominated for Best Supporting Actor at the 98th Academy Awards?,Entertainment,inferred,YES,False,0.0850,0.0500,0.0515,0.9500,30271.64,28758.05,2026-01-22,other,false
+56712,Grammys: Song of the Year Winner,Will Wildflower (Billie Eilish) win Song of the Year at the 68th Annual GRAMMY Awards?,Entertainment,inferred,YES,True,0.0375,0.0410,0.0310,0.9690,306558.64,297055.32,2026-02-01,other,false
+67292,US GDP growth in Q4 2025?,Will US GDP growth in Q4 2025 be between 1.0% and 1.5%?,Macro,inferred,YES,True,0.0045,0.0135,0.0080,0.9955,51027.73,50798.10,2026-01-29,other,false
+78989,Total commitments for the Solomon public sale on MetaDAO,Over $80M committed to the Solomon public sale?,Other,inferred,YES,False,0.0470,0.0470,0.0470,0.9530,2027115.91,1931841.46,2026-01-01,other,false
+78989,Total commitments for the Solomon public sale on MetaDAO,Over $100M committed to the Solomon public sale?,Other,inferred,YES,False,0.0190,0.0190,0.0190,0.9810,953489.45,935373.15,2026-01-01,other,false
+96627,Turnout in 2026 Costa Rica Presidential Election First Round,Will turnout in the first round of the 2026 Costa Rican Presidential Election be between 68% and 70%?,Politics,inferred,YES,True,0.0145,0.0560,0.0620,0.9855,60784.91,59903.53,2026-02-01,other,false
+100072,Critics Choice Awards: Best Supporting Actor Winner,Will Jacob Elordi win Best Supporting Actor in the 2026 Critics Choice Awards?,Other,inferred,YES,True,0.1440,0.0480,0.1300,0.9520,8592.72,8180.27,2026-01-04,other,false
+101155,Han Duck-soo Prison Time?,Will Han Duck Soo be sentenced to at least 20 years in prison?,Other,inferred,YES,True,0.0360,0.0125,0.0085,0.9915,124059.47,123004.97,2026-01-21,other,false
+102378,US bank failure by January 31?,US bank failure by January 31?,Other,inferred,YES,False,0.0245,0.0185,0.0105,0.9895,693336.67,686056.64,2026-01-31,other,false
+117783,Will Trump admin release any Epstein related files on...? ,"Will the Trump administration release any Epstein-related files on January 6, 2026?",Politics,inferred,YES,False,0.2100,0.0470,0.0155,0.9845,292513.16,287979.20,2026-01-07,other,false
+118534,"Elon Musk # tweets December 26 - January 2, 2026?","Will Elon Musk post 500-519 tweets from December 26 to January 2, 2026?",Tech,inferred,YES,True,0.0070,0.2070,0.1355,0.9930,2651921.02,2633357.58,2026-01-02,musk_tweet_bracket,false
+119855,Trump approval rating on January 2?,"Will Trump's approval rating be between 41.5 and 41.9 on January 2, 2026?",Politics,inferred,YES,True,,0.1950,0.0035,0.9965,20459.92,20388.31,2026-01-02,other,false
+125317,Ethereum price on January 2?,"Will the price of Ethereum be between $3,100 and $3,200 on January 2?",Crypto,inferred,YES,True,,0.0450,0.1260,0.9550,53665.11,51250.18,2026-01-02,other,false
+125857,What will Gold (GC) settle at in January?,"Will Gold (GC) settle at $4,725-$4,850 in January?",Other,inferred,YES,True,0.1010,0.0250,0.9935,0.9750,338971.07,330496.80,2026-01-31,other,false
+125867,What will Silver (SI) settle at in January?,Will Silver (SI) settle at $77.5-$80 in January?,Other,inferred,YES,True,0.0080,0.0005,0.9895,0.9995,180405.98,180315.78,2026-01-31,other,false
+125867,What will Silver (SI) settle at in January?,Will Silver (SI) settle at >$85 in January?,Other,inferred,NO,True,0.9500,0.9920,0.0030,0.9920,256035.44,253987.15,2026-01-31,other,false
+125869,Silver (SI) above ___ end of January?,Will Silver (SI) settle over $80 on the final trading day of January 2026?,Other,inferred,NO,False,0.9680,0.9935,0.0075,0.9935,851299.04,845765.59,2026-01-31,other,false
+125869,Silver (SI) above ___ end of January?,Will Silver (SI) settle over $85 on the final trading day of January 2026?,Other,inferred,NO,False,0.9550,0.9885,0.0060,0.9885,184577.61,182454.97,2026-01-31,other,false
+126258,"Elon Musk # tweets December 30 - January 6, 2026?","Will Elon Musk post 520-539 tweets from December 30 to January 6, 2026?",Tech,inferred,YES,True,0.0045,0.2015,0.5405,0.9955,2110549.37,2101051.90,2026-01-06,musk_tweet_bracket,false
+127264,XRP price on January 3?,Will the price of XRP be between $2.00 and $2.10 on January 3?,Crypto,inferred,YES,True,,0.0320,0.5025,0.9680,9802.56,9488.88,2026-01-03,other,false
+127265,XRP above ___ on January 3?,Will the price of XRP be above $2.00 on January 3?,Crypto,inferred,YES,False,,0.0385,0.5275,0.9615,33034.24,31762.42,2026-01-03,crypto_price_bracket,false
+132345,"Elon Musk # tweets January 2 - January 9, 2026?","Will Elon Musk post 560-579 tweets from January 2 to January 9, 2026?",Tech,inferred,YES,True,0.0165,0.0380,0.4220,0.9835,1850649.82,1820114.10,2026-01-09,musk_tweet_bracket,false
+133854,Will JPMorgan Chase (JPM) beat quarterly earnings?,Will JPMorgan Chase (JPM) beat quarterly earnings?,Other,inferred,NO,False,0.9655,0.8240,0.0115,0.9655,141618.56,136732.72,2026-01-13,other,false
+136604,Highest temperature in Seoul on January 3?,Will the highest temperature in Seoul be 0°C on January 3?,Other,inferred,YES,True,,0.2150,0.0080,0.9920,9280.44,9206.20,2026-01-03,other,false
+138473,Highest temperature in Toronto on January 4?,Will the highest temperature in Toronto be -1°C on January 4?,Other,inferred,YES,True,,0.0550,0.0405,0.9595,5050.64,4846.08,2026-01-04,other,false
+139350,NBA All-Stars 2026,Will Alperen Şengün be a 2026 NBA All-Star?,Sports,inferred,NO,False,0.9770,0.9850,0.9840,0.9850,3589.06,3535.22,2026-01-15,other,false
+139379,What day will Trump announce Fed Chair nominee?,"Will Donald Trump announce a new nominee for Chair of the Federal Reserve on January 30, 2026?",Politics,inferred,YES,True,0.0615,0.0250,0.9895,0.9750,353136.59,344308.18,2026-01-31,other,false
+139646,Palantir (PLTR) closes week of Jan 5 at ___?,Will Palantir (PLTR) close at $176-$178 on the final day of trading of the week of Jan 5 – Jan 9?,Other,inferred,YES,True,,0.0500,0.1200,0.9500,1721.61,1635.53,2026-01-09,other,false
+139648,Opendoor (OPEN) closes week of Jan 5 at ___?,Will Opendoor (OPEN) close at $7.00-$8.00 on the final day of trading of the week of Jan 5 – Jan 9?,Other,inferred,YES,True,,0.0375,0.5470,0.9625,3265.91,3143.44,2026-01-09,other,false
+95022,NJ-11 Special Election Democratic Primary Winner,Will Analilia Mejia be the Democratic nominee for the NJ-11 special election?,Politics,inferred,YES,True,0.0950,0.0850,0.0235,0.9765,35893.74,35050.24,2026-02-05,other,false
+119810,The Actor Awards Winner: Best Actress in a Drama Series,Will Keri Russell win Best Actress in a Drama Series at the 2026 SAG Awards?,Other,inferred,YES,True,0.0455,0.0475,0.0360,0.9640,6426.86,6195.49,2026-03-01,other,false
+137009,What price will BNB hit in January?,Will BNB dip to $800 in January?,Other,inferred,YES,False,0.0500,0.0335,0.0075,0.9925,44458.15,44124.71,2026-02-01,other,false
+137337,What price will Dogecoin hit in January?,Will Dogecoin dip to $0.10 in January?,Other,inferred,YES,False,0.1550,0.0395,0.0270,0.9730,49687.32,48345.76,2026-02-01,other,false
+137338,What price will Bitcoin hit in January?,"Will Bitcoin dip to $80,000 in January?",Crypto,inferred,YES,False,0.0615,0.0260,0.0760,0.9740,6752276.85,6576717.65,2026-02-01,crypto_price_bracket,false
+137339,What price will XRP hit in January?,Will XRP dip to $1.60 in January?,Crypto,inferred,YES,False,0.0540,0.0540,0.0485,0.9515,523637.45,498241.04,2026-02-01,crypto_price_bracket,false
+137340,What price will Solana hit in January?,Will Solana dip to $100 in January?,Crypto,inferred,YES,False,0.0250,0.0250,0.0075,0.9925,1265790.47,1256297.04,2026-02-01,crypto_price_bracket,false
+137341,What price will Ethereum hit in January?,"Will Ethereum dip to $2,400 in January?",Crypto,inferred,YES,False,0.0315,0.0230,0.0175,0.9825,1703286.21,1673478.70,2026-02-01,crypto_price_bracket,false
+160183,Iran Strike on Israel by...?,Iran Strike on Israel by February 28?,Geopolitics,inferred,YES,False,0.1650,0.0700,0.0385,0.9615,5006328.71,4813585.05,2026-02-28,other,true
+162196,January Inflation Argentina - Monthly,Will monthly inflation be between 2.9% and 3.1% in January?,Macro,inferred,YES,True,0.0550,0.0090,0.0455,0.9910,15756.44,15614.63,2026-02-10,other,false
+162818,Khamenei out as Supreme Leader of Iran by February 28?,Khamenei out as Supreme Leader of Iran by February 28?,Geopolitics,inferred,YES,False,0.0475,0.0115,0.0125,0.9885,131114970.83,129607148.66,2026-02-28,other,true
+164121,Grammys: Best Compilation Soundtrack For Visual Media Winner,"Will ""Sinners"" win Best Compilation Soundtrack For Visual Media at the 68th annual GRAMMY Awards?",Entertainment,inferred,YES,True,0.3900,0.0500,0.0400,0.9600,16027.00,15385.92,2026-02-01,other,false
+174903,Who will Trump talk to in February?,Will Trump talk to Mohammed bin Salman in February?,Politics,inferred,YES,False,0.3050,0.0500,0.0500,0.9500,14358.29,13640.38,2026-02-28,other,false
+177249,DGA Awards: First-Time Theatrical Feature Film Winner,Will Charlie Polinger - The Plague win Best First-Time Director of a Theatrical Feature Film at the 78th DGA Awards?,Entertainment,inferred,YES,True,0.1150,0.0350,0.0350,0.9650,1646.66,1589.03,2026-02-07,other,false
+177262,DGA Awards: Dramatic Series Winner,Will Amanda Marsalis - The Pitt win Best Director for a Dramatic Series at the 78th DGA Awards?,Other,inferred,YES,True,0.4150,0.0400,0.0400,0.9600,614.00,589.44,2026-02-07,other,false
+177275,DGA Awards: Movies for Television Winner,Will Stephen Chbosky - Nonnas win Best Director of a Movie for Television at the 78th DGA Awards?,Entertainment,inferred,YES,True,0.1300,0.0340,0.0480,0.9660,16366.72,15810.25,2026-02-07,other,false
+177521,What places will Trump mention during the State of the Union address?,"Will Trump say ""China"" during the State of the Union address?",Politics,inferred,NO,False,0.9370,0.9665,0.9655,0.9665,71229.24,68843.06,2026-02-24,other,false
+181555,French forces seize another oil tanker by Feb 28?,French forces seize another oil tanker by Feb 28?,Other,inferred,YES,False,0.1050,0.0385,0.0130,0.9870,62918.72,62100.78,2026-02-28,other,false
+184464,Will Amazon (AMZN) beat quarterly earnings?,Will Amazon (AMZN) beat quarterly earnings?,Other,inferred,NO,False,0.9350,0.9530,0.9510,0.9530,85202.23,81197.73,2026-02-05,other,false
+187440,LoL: Hanwha Life Esports vs Gen.G (BO5) - LCK Cup Group Stage,Total Kills Over/Under 38.5 in Game 2?,Sports,inferred,NO,False,,,0.9985,0.9985,662.18,661.19,2026-02-01,other,false
+187520,CA Newell's Old Boys vs. CSyD Defensa y Justicia - More Markets,CA Newell's Old Boys vs. CSyD Defensa y Justicia: O/U 4.5,Other,inferred,YES,False,0.5050,0.0550,0.0500,0.9500,668.49,635.07,2026-02-08,other,false
+188299,Ethereum above ___ on February 1?,"Will the price of Ethereum be above $2,400 on February 1?",Crypto,inferred,NO,False,,0.9905,0.6235,0.9905,203028.49,201099.72,2026-02-01,crypto_price_bracket,false
+188299,Ethereum above ___ on February 1?,"Will the price of Ethereum be above $2,500 on February 1?",Crypto,inferred,NO,False,,0.9630,0.0505,0.9630,138440.99,133318.67,2026-02-01,crypto_price_bracket,false
+188301,Bitcoin price on February 1?,"Will the price of Bitcoin be less than $80,000 on February 1?",Crypto,inferred,YES,True,,0.0370,0.8890,0.9630,191720.69,184627.02,2026-02-01,other,false
+188306,Bitcoin above ___ on February 1?,"Will the price of Bitcoin be above $78,000 on February 1?",Crypto,inferred,NO,False,,0.9740,0.8045,0.9740,1443735.61,1406198.48,2026-02-01,crypto_price_bracket,false
+188306,Bitcoin above ___ on February 1?,"Will the price of Bitcoin be above $80,000 on February 1?",Crypto,inferred,NO,False,,0.9580,0.1110,0.9580,748947.36,717491.57,2026-02-01,crypto_price_bracket,false
+188307,Ethereum price on February 1?,"Will the price of Ethereum be less than $2,400 on February 1?",Crypto,inferred,YES,True,,0.0090,0.3725,0.9910,39440.72,39085.75,2026-02-01,other,false
+188312,Solana price on February 1?,Will the price of Solana be between $100 and $110 on February 1?,Crypto,inferred,YES,True,,0.0250,0.9345,0.9750,35245.53,34364.39,2026-02-01,other,false
+188314,Solana above ___ on February 1?,Will the price of Solana be above $110 on February 1?,Crypto,inferred,NO,False,,0.9535,0.0385,0.9535,46774.00,44599.01,2026-02-01,crypto_price_bracket,false
+188316,XRP price on February 1?,Will the price of XRP be between $1.50 and $1.60 on February 1?,Crypto,inferred,YES,True,,0.0385,0.2260,0.9615,6261.64,6020.56,2026-02-01,other,false
+188318,XRP above ___ on February 1?,Will the price of XRP be above $1.60 on February 1?,Crypto,inferred,NO,False,,0.9580,0.9100,0.9580,46282.43,44338.57,2026-02-01,crypto_price_bracket,false
+189023,What price will Bitcoin hit January 26-February 1?,"Will Bitcoin dip to $78,000 January 26-1?",Crypto,inferred,YES,False,,0.0400,0.0400,0.9600,390020.84,374420.00,2026-02-02,crypto_price_bracket,false
+189023,What price will Bitcoin hit January 26-February 1?,"Will Bitcoin dip to $76,000 January 26-1?",Crypto,inferred,YES,False,,0.0175,0.0175,0.9825,382546.28,375851.72,2026-02-02,crypto_price_bracket,false
+189030,What price will Ethereum hit January 26-February 1?,"Will Ethereum dip to $2,300 January 26-1?",Crypto,inferred,YES,False,,0.0225,0.0225,0.9775,167354.30,163588.83,2026-02-02,crypto_price_bracket,false
+189030,What price will Ethereum hit January 26-February 1?,"Will Ethereum dip to $2,400 January 26-1?",Crypto,inferred,YES,False,,0.0365,0.0365,0.9635,260904.72,251381.70,2026-02-02,crypto_price_bracket,false
+189030,What price will Ethereum hit January 26-February 1?,"Will Ethereum dip to $2,200 January 26-1?",Crypto,inferred,YES,False,,0.0480,0.3215,0.9520,392548.00,373705.70,2026-02-02,crypto_price_bracket,false
+189048,What price will Solana hit January 26-February 1?,Will Solana dip to $100 January 26-1?,Crypto,inferred,YES,False,,0.0105,0.0105,0.9895,154322.49,152702.10,2026-02-02,crypto_price_bracket,false
+189693,# of seats won by PPLE in 2026 Thailand Legislative Election?,Will the People’s Party (PPLE) win between 120 and 134 seats in the 2026 Thai legislative election?,Politics,inferred,YES,True,0.1100,0.1035,0.0240,0.9760,143737.33,140287.64,2026-02-08,other,false
+189845,US next strikes Iran on...?,"Will the US next strike Iran on February 28, 2026 (ET)?",Geopolitics,inferred,YES,True,0.0430,0.0570,0.0560,0.9570,5837356.57,5586350.24,2026-02-28,other,true
+189994,"Elon Musk # tweets January 30 - February 6, 2026?","Will Elon Musk post 280-299 tweets from January 30 to February 6, 2026?",Tech,inferred,YES,True,0.0350,0.1545,0.7045,0.9650,1915377.26,1848339.05,2026-02-06,musk_tweet_bracket,false
+192033,Will PayPal (PYPL) beat quarterly earnings?,Will PayPal (PYPL) beat quarterly earnings?,Other,inferred,NO,False,,0.8500,0.9650,0.9650,18533.91,17885.22,2026-02-03,other,false
+192649,Gonzaga Bulldogs vs. Portland Pilots,Gonzaga Bulldogs vs. Portland Pilots,Other,inferred,NO,False,,0.9685,0.9765,0.9765,119145.31,116345.40,2026-02-05,other,false
+192748,XRP price on February 5?,Will the price of XRP be less than $1.40 on February 5?,Crypto,inferred,YES,True,,0.0140,0.7770,0.9860,47205.60,46544.72,2026-02-05,other,false
+192749,XRP above ___ on February 5?,Will the price of XRP be above $1.30 on February 5?,Crypto,inferred,NO,False,,0.9875,0.8990,0.9875,85694.57,84623.39,2026-02-05,crypto_price_bracket,false
+192749,XRP above ___ on February 5?,Will the price of XRP be above $1.40 on February 5?,Crypto,inferred,NO,False,,0.9695,0.2195,0.9695,71017.83,68851.79,2026-02-05,crypto_price_bracket,false
+193340,Apple (AAPL) closes above ___ on February 2?,Will Apple (AAPL) close above $265 on February 2?,Other,inferred,YES,False,,0.4900,0.0450,0.9550,8543.89,8159.41,2026-02-02,other,false
+193340,Apple (AAPL) closes above ___ on February 2?,Will Apple (AAPL) close above $270 on February 2?,Other,inferred,YES,False,,0.0145,0.0140,0.9860,12083.19,11914.02,2026-02-02,other,false
+193371,Google (GOOGL) closes above ___ on February 2?,Will Google (GOOGL) close above $340 on February 2?,Other,inferred,YES,False,,0.3500,0.0450,0.9550,12390.86,11833.27,2026-02-02,other,false
+193966,NVIDIA (NVDA) closes week of Feb 2 at ___?,Will NVIDIA (NVDA) close at $185-$190 on the final day of trading of the week of Feb 2 – Feb 6?,Other,inferred,YES,True,,0.0650,0.0075,0.9925,8001.22,7941.21,2026-02-06,other,false
+193977,Will NVIDIA (NVDA) close above ___ end of February?,Will NVIDIA (NVDA) close above $180 end of February?,Other,inferred,NO,False,0.7200,0.9780,0.7830,0.9780,132792.87,129871.43,2026-02-27,other,false
+194167,"Elon Musk # tweets February 3 - February 10, 2026?","Will Elon Musk post 360-379 tweets from February 3 to February 10, 2026?",Tech,inferred,YES,True,0.1250,0.0005,0.0025,0.9995,1995643.44,1994645.62,2026-02-10,musk_tweet_bracket,false
+195184,Rayo Vallecano de Madrid vs. Club Atlético de Madrid - More Markets,Spread: Rayo Vallecano de Madrid (-2.5),Other,inferred,YES,False,0.5000,0.0265,0.0210,0.9790,5815.11,5693.00,2026-02-14,other,false
+196874,Who will attend the State of the Union address?,Will Kash Patel attend the 2026 State of the Union address?,Other,inferred,NO,False,,0.9150,0.9590,0.9590,46956.69,45031.47,2026-02-24,other,false
+197206,"Elon Musk # tweets February 6 - February 13, 2026?","Will Elon Musk post 360-379 tweets from February 6 to February 13, 2026?",Tech,inferred,YES,True,0.0700,0.0320,0.5860,0.9680,1492940.18,1445166.10,2026-02-13,musk_tweet_bracket,false
+197400,Highest temperature in Ankara on February 5?,Will the highest temperature in Ankara be 8°C on February 5?,Other,inferred,YES,True,,0.0700,0.0125,0.9875,31133.53,30744.36,2026-02-05,other,false
+197878,Winter Games 2026: Countries to win a medal?,Will Denmark record a medal at the 2026 Winter Olympics?,Sports,inferred,YES,False,0.1900,0.0015,0.0860,0.9985,19187.72,19158.94,2026-02-22,other,false
+198236,AVS Futebol vs. Estoril Praia - More Markets,Spread: AVS Futebol (-2.5),Other,inferred,YES,False,0.5050,0.0295,0.0195,0.9805,1621.40,1589.78,2026-02-15,other,false
+198274,Highest temperature in Buenos Aires on February 6?,Will the highest temperature in Buenos Aires be 31°C on February 6?,Other,inferred,YES,True,,0.0650,0.0405,0.9595,14389.89,13807.10,2026-02-06,other,false
+198280,Highest temperature in Atlanta on February 6?,Will the highest temperature in Atlanta be between 64-65°F on February 6?,Other,inferred,YES,True,,0.0295,0.0950,0.9705,15051.02,14607.01,2026-02-06,other,false
+198546,US downs another Iranian drone by February 28?,US downs another Iranian drone by February 28?,Other,inferred,YES,False,0.2800,0.0650,0.0475,0.9525,151889.97,144675.20,2026-02-28,other,true
+198847,# of CRA seats after the 2026 Japanese snap election? (Lower Brackets),Will the Centrist Reform Alliance win fewer than 50 seats in the 2026 Japanese general election?,Politics,inferred,YES,True,,0.0255,0.1290,0.9745,12640.86,12318.51,2026-02-08,other,false
+199484,Bitcoin price on February 12?,"Will the price of Bitcoin be between $64,000 and $66,000 on February 12?",Crypto,inferred,YES,True,,0.2200,0.0500,0.9500,251779.80,239190.81,2026-02-12,other,false
+199485,"Elon Musk # tweets February 7 - February 9, 2026?","Will Elon Musk post 115-139 tweets from February 7 to February 9, 2026?",Tech,inferred,YES,True,,0.0355,0.0185,0.9815,997824.85,979365.09,2026-02-09,musk_tweet_bracket,false
+200618,Winter Games 2026: Biathlon - Men's 15km Mass Start,Will Johannes Dale-Skjevdal (NOR) win the gold medal for Winter Olympics 2026: Biathlon - Men's 15km Mass Start at the 2026 Milano Cortina Winter Olympics?,Sports,inferred,YES,True,0.0295,0.0855,0.0855,0.9705,18973.73,18414.00,2026-02-23,other,false
+200637,Winter Games 2026: Speed Skating - Men's 1500m,Will Zhongyan Ning (CHN) win the gold medal for Winter Olympics 2026: Speed Skating - Men's 1500m at the 2026 Milano Cortina Winter Olympics?,Sports,inferred,YES,True,0.0245,0.0240,0.0240,0.9760,39765.43,38811.06,2026-02-23,other,false
+200644,Winter Games 2026: Speed Skating - Women's 3000m,Will Francesca Lollobrigida (ITA) win the gold medal for Winter Olympics 2026: Speed Skating - Women's 3000m at the 2026 Milano Cortina Winter Olympics?,Sports,inferred,YES,True,0.0255,0.0255,0.0255,0.9745,3754.51,3658.77,2026-02-23,other,false
+200784,Will Apple (AAPL) finish week of February 9 above___?,Will Apple (AAPL) finish week of February 9 above $265?,Other,inferred,NO,False,,0.9705,0.3385,0.9705,6643.57,6447.58,2026-02-13,other,false
+200785,Apple (AAPL) closes week of Feb 9 at ___?,Will Apple (AAPL) close at $255-$260 on the final day of trading of the week of Feb 9 – Feb 13?,Other,inferred,YES,True,,0.0235,0.2975,0.9765,4707.78,4597.15,2026-02-13,other,false
+174562,Nuggets vs. Grizzlies,Spread: Grizzlies (-3.5),Other,inferred,YES,False,0.1500,0.0465,0.0460,0.9540,0.00,0.00,2026-03-18,other,false
+210004,CF América vs. Tigres de la UANL - More Markets,Spread: Tigres de la UANL (-2.5),Other,inferred,YES,False,0.5100,0.0575,0.0500,0.9500,892.82,848.18,2026-03-01,other,false
+212515,Udinese Calcio vs. ACF Fiorentina - More Markets,Spread: Udinese Calcio (-2.5),Other,inferred,YES,False,0.1550,0.0405,0.0470,0.9595,6333.00,6076.52,2026-03-02,other,false
+213192,Córdoba CF vs. FC Andorra - More Markets,Spread: FC Andorra (-2.5),Other,inferred,YES,False,0.5150,0.0250,0.0300,0.9750,4746.98,4628.31,2026-03-02,other,false
+213966,CA Tucumán vs. Racing Club - More Markets,Spread: Racing Club (-2.5),Other,inferred,YES,False,0.1850,0.1100,0.0450,0.9550,2475.33,2363.94,2026-03-04,other,false
+214498,Total Internet Blackout in Iran by...?,"Total Internet Blackout in Iran by February 28, 2026?",Geopolitics,inferred,YES,False,0.0255,0.0255,0.0255,0.9745,41401.30,40345.56,2026-03-31,other,true
+215442,AC Reggiana 1919 vs. FC Südtirol - More Markets,Spread: FC Südtirol (-2.5),Other,inferred,YES,False,0.5200,0.0400,0.0500,0.9600,1276.78,1225.71,2026-03-03,other,false
+220473,"Andrew Tate # posts February 24 - March 3, 2026?","Will Andrew Tate post 130-159 posts from February 24 to March 3, 2026?",Other,inferred,YES,True,0.0275,0.7000,0.8270,0.9725,81265.03,79030.24,2026-03-03,other,false
+220474,"Elon Musk # tweets February 24 - March 3, 2026?","Will Elon Musk post 200-219 tweets from February 24 to March 3, 2026?",Tech,inferred,YES,True,0.0080,0.4440,0.7895,0.9920,1557873.57,1545410.58,2026-03-03,musk_tweet_bracket,false
+226985,"Donald Trump # Truth Social posts February 27 - March 6, 2026?","Will Donald Trump post 200+ Truth Social posts from February 27 to March 6, 2026?",Politics,inferred,YES,True,0.0190,0.4545,0.3990,0.9810,0.00,0.00,2026-03-06,other,false
+226986,"Elon Musk # tweets February 27 - March 6, 2026?","Will Elon Musk post 200-219 tweets from February 27 to March 6, 2026?",Tech,inferred,YES,True,0.0065,0.0745,0.7710,0.9935,0.00,0.00,2026-03-06,musk_tweet_bracket,false
+228685,What will be the #2 global Netflix movie this week?,"Will ""KPop Demon Hunters"" be the #2 global Netflix movie this week?",Entertainment,inferred,YES,True,,0.0500,0.0600,0.9500,79415.36,75444.60,2026-03-03,other,false
+230284,Bitcoin above ___ on March 4?,"Will the price of Bitcoin be above $72,000 on March 4?",Crypto,inferred,YES,False,,0.0415,0.2170,0.9585,1219443.60,1168836.69,2026-03-04,crypto_price_bracket,false
+230288,Bitcoin price on March 4?,"Will the price of Bitcoin be between $72,000 and $74,000 on March 4?",Crypto,inferred,YES,True,,0.0225,0.1980,0.9775,192634.41,188300.13,2026-03-04,other,false
+232033,Queens Park Rangers FC vs. Portsmouth FC - More Markets,Spread: Queens Park Rangers FC (-2.5),Other,inferred,YES,False,0.5050,0.0415,0.0395,0.9605,0.00,0.00,2026-03-21,other,false
+234213,Highest temperature in NYC on March 1?,Will the highest temperature in New York City be between 42-43°F on March 1?,Other,inferred,YES,True,,0.0290,0.0350,0.9710,83007.49,80600.27,2026-03-01,other,false
+234709,What will the median home value in the DC Metro area be on April 1?,"Will the median home value in the DC Metro area be between $548,000 and $554,000 on April 1?",Other,inferred,YES,True,0.0250,0.1520,0.1520,0.9750,3092.26,3014.95,2026-04-01,other,false
+235637,Will Palantir (PLTR) close above ___ end of March?,Will Palantir (PLTR) close above $146 end of March?,Other,inferred,YES,False,0.9200,0.4350,0.0475,0.9525,15515.63,14778.64,2026-03-31,other,false
+236151,"Elon Musk # tweets March 3 - March 10, 2026?","Will Elon Musk post 340-359 tweets from March 3 to March 10, 2026?",Tech,inferred,YES,True,0.0450,0.3230,0.1820,0.9550,0.00,0.00,2026-03-10,musk_tweet_bracket,false
+236884,Iran x Israel/US conflict ends by...?,Iran x Israel/US conflict ends by April 7?,Geopolitics,inferred,YES,False,,0.0310,0.0445,0.9690,48720376.31,47210044.65,2026-03-31,other,true
+238973,Highest temperature in Sao Paulo on March 3?,Will the highest temperature in Sao Paulo be 25°C or below on March 3?,Other,inferred,YES,True,,0.0850,0.0420,0.9580,21827.09,20910.36,2026-03-03,other,false
+238978,Highest temperature in NYC on March 3?,Will the highest temperature in New York City be between 34-35°F on March 3?,Other,inferred,YES,True,,0.0500,0.0370,0.9630,54556.33,52537.75,2026-03-03,other,false
+241188,Highest temperature in London on March 4?,Will the highest temperature in London be 12°C or below on March 4?,Other,inferred,YES,True,,0.0145,0.0275,0.9855,0.00,0.00,2026-03-04,other,false
+241781,PGA Tour: Arnold Palmer Invitational presented by Mastercard Winner,Will Akshay Bhatia win the 2026 Arnold Palmer Invitational presented by Mastercard?,Sports,inferred,YES,True,,0.0105,0.0620,0.9895,0.00,0.00,2026-03-08,other,false
+85572,"Crypto Twitter mindshare ATH by March 31, 2026?",Proph3T mindshare all time high by March 31?,Crypto,inferred,YES,False,0.3450,0.0450,0.0450,0.9550,56202.92,53673.79,2026-04-01,other,false
+85572,"Crypto Twitter mindshare ATH by March 31, 2026?",CZ mindshare all time high by March 31?,Crypto,inferred,YES,False,0.0220,0.0305,0.0305,0.9780,11419.80,11168.57,2026-04-01,other,false
+118442,Which teams will draft a QB in the 1st round of the 2026 Pro Football draft? ,Will the Los Angeles Rams draft a quarterback in the first round of the 2026 NFL Draft?,Sports,inferred,YES,False,0.4455,0.0485,0.4415,0.9515,1581.10,1504.41,2026-04-23,other,false
+119521,How many seats will IUML win in the next Kerala Legislative Assembly election?,Will the Indian Union Muslim League (IUML) win 22 or more seats in the 2026 Kerala Legislative Assembly election?,Politics,inferred,YES,True,0.1900,0.0345,0.0345,0.9655,11415.65,11021.81,2026-04-09,other,false
+193908,Central Bank of Colombia Decision in April?,Will the Central Bank of Colombia announce an increase at the April meeting?,Other,inferred,NO,True,0.8300,0.9400,0.9715,0.9715,35887.70,34864.90,2026-04-30,other,false
+193908,Central Bank of Colombia Decision in April?,Will the Central Bank of Colombia announce no change at the April meeting?,Other,inferred,YES,True,0.1500,0.0560,0.0315,0.9685,31278.18,30292.92,2026-04-30,other,false
+256694,D.C. United SC vs. FC Dallas - More Markets,Spread: FC Dallas (-2.5),Other,inferred,YES,False,0.5000,0.0320,0.0320,0.9680,1260.01,1219.69,2026-04-04,other,false
+261681,Will an Iranian agent be charged in the US by April 30?,Will an Iranian agent be charged in the US by April 30?,Other,inferred,YES,False,0.0345,0.0345,0.0345,0.9655,83414.77,80536.96,2026-04-30,other,true
+273760,Argentina Monthly Inflation - March,Will Argentina’s monthly inflation in March 2026 be between 3.4% and 3.6%?,Macro,inferred,YES,True,0.0460,0.0400,0.0230,0.9770,20495.60,20024.20,2026-04-14,other,false
+277704,Will Patek prices hit __ by April 30?,"Will the Patek Index hit $103,000 (LOW) by April 30?",Other,inferred,YES,False,0.0125,0.0125,0.0125,0.9875,8734.53,8625.35,2026-04-30,other,false
+277704,Will Patek prices hit __ by April 30?,"Will the Patek Index hit $107,000 (HIGH) by April 30?",Other,inferred,YES,False,0.0135,0.0135,0.0135,0.9865,13121.59,12944.45,2026-04-30,other,false
+277704,Will Patek prices hit __ by April 30?,"Will the Patek Index hit $104,000 (LOW) by April 30?",Other,inferred,YES,False,0.0210,0.0210,0.0210,0.9790,5369.70,5256.93,2026-04-30,other,false
+277762,Will Rolex prices hit __ by April 30?,"Will the Rolex Index hit $12,450 (HIGH) by April 30?",Other,inferred,YES,False,0.0245,0.0245,0.0245,0.9755,21391.84,20867.74,2026-04-30,other,false
+277762,Will Rolex prices hit __ by April 30?,"Will the Rolex Index hit $12,350 (HIGH) by April 30?",Other,inferred,YES,False,0.0270,0.0270,0.0270,0.9730,8677.18,8442.89,2026-04-30,other,false
+287763,Peru Presidential Election First Round: 4th Place,Will Jorge Nieto finish in fourth place in the first round of the 2026 Peruvian presidential election?,Politics,inferred,YES,True,0.0495,0.2575,0.2575,0.9505,56767.01,53957.05,2026-04-12,other,false
+293383,Yunnan Yukun FC vs. Tianjin Jinmen Hu FC - More Markets,Spread: Tianjin Jinmen Hu FC (-2.5),Other,inferred,YES,False,0.4200,0.0345,0.0345,0.9655,1523.83,1471.26,2026-04-17,other,false
+295532,Super Rugby Pacific: Chiefs vs Hurricanes,Will the match end in a draw?,Sports,inferred,YES,True,0.0280,0.0280,0.0280,0.9720,6652.18,6465.92,2026-04-25,other,false
+295533,Super Rugby Pacific: Brumbies vs Fijian Drua,Will Fijian Drua win?,Sports,inferred,YES,True,0.0370,0.0370,0.0370,0.9630,2299.00,2213.94,2026-04-25,other,false
+300485,Los Angeles FC vs. San Jose Earthquakes - More Markets,Spread: San Jose Earthquakes (-2.5),Other,inferred,YES,False,0.1750,0.0410,0.0220,0.9780,977.38,955.88,2026-04-19,other,false
+304054,Precipitation in Hong Kong in April?,Will Hong Kong have between 160-170mm of precipitation in April?,Other,inferred,YES,True,0.0265,0.0335,0.0615,0.9735,18466.68,17977.31,2026-04-30,other,false
+311008,FC Barcelona vs. Club Atlético de Madrid - Exact Score,Exact Score: FC Barcelona 0 - 2 Club Atlético de Madrid?,Other,inferred,YES,True,0.4300,0.0390,0.0155,0.9845,4229.90,4164.34,2026-04-08,other,false
+314065,Trump approval rating on April 3?,"Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",Politics,inferred,YES,True,,0.4200,0.0500,0.9500,27733.82,26347.13,2026-04-04,other,false
+315285,What will Trump say in April?,"Will Trump say ""Discombobulator"" or ""Discombobulated"" in April?",Politics,inferred,YES,False,0.0500,0.0155,0.0165,0.9845,10128.54,9971.55,2026-04-30,other,false
+315503,Will iShares MSCI South Korea ETF (EWY) hit Week of March 30 2026?,Will iShares MSCI South Korea ETF (EWY) hit (LOW) $115 Week of March 30 2026?,Other,inferred,YES,False,,0.5050,0.0065,0.9935,2639.45,2622.29,2026-04-03,other,false
+316523,Paris FC vs. AS Monaco FC - More Markets,Spread: Paris FC (-2.5),Other,inferred,YES,False,0.5000,0.0395,0.0395,0.9605,14754.43,14171.63,2026-04-10,other,false
+317257,CA Central Córdoba vs. CA Platense - More Markets,CA Central Córdoba vs. CA Platense: O/U 4.5,Other,inferred,YES,False,0.1850,0.0355,0.0400,0.9645,6716.83,6478.38,2026-04-20,other,false
+317544,Universitatea Craiova CS vs. FC Universitatea Cluj - More Markets,Spread: FC Universitatea Cluj (-2.5),Other,inferred,YES,False,0.4700,0.0750,0.0450,0.9550,3844.79,3671.77,2026-04-13,other,false
+317618,Associação Chapecoense de Futebol vs. CA Mineiro - More Markets,Spread: CA Mineiro (-2.5),Other,inferred,YES,False,,0.0600,0.0400,0.9600,737.20,707.72,2026-04-02,other,false
+320248,Arsenal FC vs. AFC Bournemouth - Exact Score,Exact Score: Arsenal FC 1 - 2 AFC Bournemouth?,Other,inferred,YES,True,0.4950,0.0500,0.0500,0.9500,1509.53,1434.05,2026-04-11,other,false
+320332,AC Milan vs. Udinese Calcio - More Markets,Spread: Udinese Calcio (-2.5),Other,inferred,YES,False,,0.0060,0.0060,0.9940,16050.99,15954.68,2026-04-11,other,false
+320332,AC Milan vs. Udinese Calcio - More Markets,Spread: Udinese Calcio (-1.5),Other,inferred,YES,False,0.2150,0.0300,0.0340,0.9700,4450.39,4316.88,2026-04-11,other,false
+320890,LoL: JD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend,Total Kills Over/Under 21.5 in Game 2?,Sports,inferred,NO,False,,,0.9945,0.9945,170.00,169.06,2026-04-05,other,false
+321980,Beijing Guoan FC vs. Tianjin Jinmen Hu FC - More Markets,Spread: Tianjin Jinmen Hu FC (-1.5),Other,inferred,YES,False,0.3950,0.0550,0.0450,0.9550,333.18,318.18,2026-04-25,other,false
+322563,Highest temperature in Seoul on April 4?,Will the highest temperature in Seoul be 17°C or higher on April 4?,Other,inferred,YES,True,,0.0500,0.2250,0.9500,136400.99,129580.94,2026-04-04,other,false
+322583,Highest temperature in Taipei on April 4?,Will the highest temperature in Taipei be 22°C or below on April 4?,Other,inferred,YES,True,,0.1300,0.0450,0.9550,14378.62,13731.58,2026-04-04,other,false
+323111,Ulsan HD FC vs. Daejeon Hana Citizen FC - More Markets,Spread: Daejeon Hana Citizen FC (-2.5),Other,inferred,YES,False,0.3850,0.0495,0.0405,0.9595,4187.53,4017.93,2026-04-26,other,false
+324100,Chelsea FC vs. Manchester City FC - Exact Score,Exact Score: Chelsea FC 0 - 3 Manchester City FC?,Other,inferred,YES,True,0.4700,0.0500,0.0450,0.9550,1279.54,1221.96,2026-04-12,other,false
+324330,SBV Excelsior vs. FC Utrecht - More Markets,Spread: SBV Excelsior (-2.5),Other,inferred,YES,False,0.1800,0.0410,0.0455,0.9590,925.10,887.17,2026-04-26,other,false
+324465,RC Celta de Vigo vs. Real Oviedo - More Markets,Spread: Real Oviedo (-2.5),Other,inferred,YES,False,0.5200,0.0130,0.0130,0.9870,5260.51,5192.13,2026-04-12,other,false
+324467,RCD Mallorca vs. Rayo Vallecano de Madrid - More Markets,Spread: RCD Mallorca (-2.5),Other,inferred,YES,False,0.5150,0.0450,0.0595,0.9550,1114.30,1064.15,2026-04-12,other,false
+325759,PGA Tour: Valero Texas Open Winner,Will J.J. Spaun win the 2026 Valero Texas Open?,Sports,inferred,YES,True,,0.0105,0.0105,0.9895,29894.51,29580.62,2026-04-05,other,false
+325765,Qingdao Hainiu FC vs. Shandong Taishan FC - More Markets,Spread: Qingdao Hainiu FC (-2.5),Other,inferred,YES,False,0.3700,0.0365,0.0285,0.9715,1861.67,1808.61,2026-04-26,other,false
+325861,Who will Trump name in April?,"Will Trump name ""Hillary"" in April?",Politics,inferred,YES,False,0.4150,0.3250,0.0205,0.9795,4541.31,4448.22,2026-04-30,other,false
+325871,Sønderjyske Fodbold vs. Brøndby IF - More Markets,Spread: Sønderjyske Fodbold (-2.5),Other,inferred,YES,False,0.5100,0.0600,0.0450,0.9550,77.30,73.82,2026-04-26,other,false
+328042,Club Santos Laguna vs. CF Monterrey - More Markets,Spread: Club Santos Laguna (-2.5),Other,inferred,YES,False,0.3250,0.0450,0.0550,0.9550,478.29,456.76,2026-04-26,other,false

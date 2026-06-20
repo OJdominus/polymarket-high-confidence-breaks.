@@ -1,0 +1,14 @@
+# Raw and intermediate data are fetched at runtime, never committed.
+data/
+!data/.gitkeep
+
+# Notebook execution artifacts
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
